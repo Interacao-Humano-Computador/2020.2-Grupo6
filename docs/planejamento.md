@@ -26,9 +26,7 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <p style="text-indent: 20px; text-align: justify">
-    Em desenvolvimento
-  </p>
+  <img src="../assets/horarios/horarios.png" alt="Horários disponíveis">
 </div>
 
 ## 2. Processo de design
@@ -69,3 +67,4 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 02/03/2021 | Criação do projeto base | Ítalo |
+| 1.1 | 02/03/2021 | Adicionando horários livres | Ítalo |
