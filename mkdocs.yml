@@ -1,0 +1,19 @@
+site_name: Vjudge
+
+repo_url: https://github.com/Interacao-Humano-Computador/2020.2-Vjudge
+repo_name: 'Vjudge'
+
+theme:
+  name: material
+  language: 'pt'
+  logo: 'assets/icons/vjudge.png'
+  favicon: 'assets/icons/codercat.png'
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Apresentações:
+      - Apresentação 1: apresentacoes/apresentacao1.md
