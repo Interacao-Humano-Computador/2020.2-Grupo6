@@ -8,6 +8,8 @@ theme:
   language: 'pt'
   logo: 'assets/icons/vjudge.png'
   favicon: 'assets/icons/codercat.png'
+  features:
+    - navigation.tabs
 
 extra_css:
   - stylesheets/extra.css

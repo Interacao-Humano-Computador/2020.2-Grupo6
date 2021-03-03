@@ -4,6 +4,6 @@
     --md-primary-fg-color--dark: #000000;
   }
 
-nav {
+.md-header__inner{
   color: #000000;
 }

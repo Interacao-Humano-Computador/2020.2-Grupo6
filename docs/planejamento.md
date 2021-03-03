@@ -11,13 +11,15 @@ OBS.: Essas datas podem mudar futuramente.
 ### 1.1 Cronograma de atividades
 
 |Título|Data|Descrição|
-|:------:|:-----------------------------:|:----------------------------------:|
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <p style="text-indent: 20px; text-align: justify">
-    Em desenvolvimento
-  </p>
-</div>
+|:-----:|:-----------------------------:|:----------------------------------:|
+|Planejamento do Projeto|05/03|Planejamento do Projeto e Processo de Design|
+|Entrega da apresentação do projeto|19/03| Perfil do usuário, Personas e Análise de tarefas|
+|Entrega da apresentação do projeto|26/03|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)|
+|Entrega da apresentação do projeto|09/04|Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|
+|Entrega da apresentação do projeto|23/04|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
+|Entrega da apresentação do projeto|30/04|Relato dos resultados do Protótipo de Papel e Planejamento daAvaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
+|Verificação dos artefatos.|04/05|Verificação dos artefatos construidos no projeto|
+|Entrega da apresentação do projeto final|10/05|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
 
 ### 1.2 Disponibilidade dos integrantes
 
