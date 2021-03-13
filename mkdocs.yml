@@ -15,7 +15,7 @@ extra_css:
 nav:
   - Sobre: index.md
   - Planejamento: planejamento.md
-  - Processo de deign:
+  - Processo de design:
       - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
