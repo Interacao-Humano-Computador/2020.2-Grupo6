@@ -1,6 +1,18 @@
 # Planejamento
 
-## 1. Cronograma
+## 1. Sites avaliados individualmente
+
+- Caio Martins Ferreira - <a href="http://flytec.com.py/" target="_blank">Flytec</a>
+- Gabriel Bonifácio Perez Nunes -  <a href="http://www.portaltransparencia.gov.br/" target="_blank">Portal da transparência</a>
+- Guilherme de Morais Richter - <a href="https://www.notalegal.df.gov.br/" target="_blank">Nota legal</a>
+- Ian Fillipe Pontes Ferreira - <a href="https://www.infojobs.com.br/" target="_blank">InfoJobs</a>
+- Italo Vinicius Pereira Guimaraes - <a href="https://vjudge.net/" target="_blank">Vjudge</a>
+
+Em consenso, escolhemos o Vjudge por ser um site que já utilizamos algumas vezes e também possui um escopo menor, facilitando no mapeamento do site e na valiação heurística
+
+O planejamento do Vjudge está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/EX75t_s9mNpNqDmMVwW0GVQBwhi85s7oR4KbHU-CuHLaRQ?e=u3fBUj" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/ESQXBSFnw11DgXHcbxBIzXIBUiBmyUN_TcjCwj0S0EOihg?e=ZU2ZgB" target="_blank">aqui</a>
+
+## 2. Cronograma
 
 <p style="text-indent: 20px; text-align: justify">
 A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integrantes, o grupo organizou um cronograma com o intuito de realizar as tarefas propostas no projeto.
@@ -8,7 +20,7 @@ A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integ
 
 OBS.: Essas datas podem mudar futuramente.
 
-### 1.1 Cronograma de atividades
+### 2.1 Cronograma de atividades
 
 |Título|Data|Descrição|
 |:-----:|:-----------------------------:|:----------------------------------:|
@@ -21,7 +33,7 @@ OBS.: Essas datas podem mudar futuramente.
 |Verificação dos artefatos.|04/05|Verificação dos artefatos construidos no projeto|
 |Entrega da apresentação do projeto final|10/05|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
 
-### 1.2 Disponibilidade dos integrantes
+### 2.2 Disponibilidade dos integrantes
 
 <p style="text-indent: 20px; text-align: justify">
 Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio grupo ter conhecimento de quando todos os partipantes poderão se reunir para discutir e trabalhar no projeto. 
@@ -52,16 +64,16 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 
 | Ferramenta | Nome | Descrição |
 |:--:|:--:|:--:|
-|<img width="150px" height="150px" src="../assets/icons/vjudge.png" alt="Vjudge">|Vjudge|Site para criar ou exercitar problemas de programação|
-|<img width="150px" height="150px" src="../assets/icons/github.png" alt="GitHub_icon">|GitHub|Ferramenta de controle de versão de arquivos e código|
-|<img width="150px" height="150px" src="../assets/icons/microsoft.png" alt="MicrosoftWord_icon">|Microsoft Word|Processador de texto para arquivos .doc|
-|<img width="150px" height="150px" src="../assets/icons/canva.png" alt="Canva_icon">|Canva|Plataforma de design gráfico e produção de slides|
-|<img width="150px" height="150px" style="border-radius:50%" src="../assets/icons/figma.png" alt="Figma_icon">|Figma|Ferramenta de edição de imagens|
-|<img width="150px" height="150px" src="../assets/icons/lucidchart.png" alt="Lucidchart_icon">|Lucidchart|Plataforma de desenho e compartilhamento de diagramas|
-|<img width="150px" height="150px" src="../assets/icons/teams.png" alt="MicrosoftTeams_icon">|Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
-|<img width="150px" height="150px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
-|<img width="150px" height="150px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
-|<img width="150px" height="150px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
+|<img width="80px" height="80px" src="../assets/icons/vjudge.png" alt="Vjudge">|Vjudge|Site para criar ou exercitar problemas de programação|
+|<img width="80px" height="80px" src="../assets/icons/github.png" alt="GitHub_icon">|GitHub|Ferramenta de controle de versão de arquivos e código|
+|<img width="80px" height="80px" src="../assets/icons/microsoft.png" alt="MicrosoftWord_icon">|Microsoft Word|Processador de texto para arquivos .doc|
+|<img width="80px" height="80px" src="../assets/icons/canva.png" alt="Canva_icon">|Canva|Plataforma de design gráfico e produção de slides|
+|<img width="80px" height="80px" style="border-radius:50%" src="../assets/icons/figma.png" alt="Figma_icon">|Figma|Ferramenta de edição de imagens|
+|<img width="80px" height="80px" src="../assets/icons/lucidchart.png" alt="Lucidchart_icon">|Lucidchart|Plataforma de desenho e compartilhamento de diagramas|
+|<img width="80px" height="80px" src="../assets/icons/teams.png" alt="MicrosoftTeams_icon">|Microsoft Teams|Ferramenta de chamada e gravação de vídeos|
+|<img width="80px" height="80px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
+|<img width="80px" height="80px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
+|<img width="80px" height="80px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
 
 ## Referências:
 
@@ -76,3 +88,4 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 | 1.3 | 03/03/2021 | Adicionando as metodologias adotadas | Ítalo |
 | 1.4 | 03/03/2021 | Adicionando o processo de design | Ítalo |
 | 1.5 | 13/03/2021 | Separando o processo de design em outra página (feedback)| Ítalo |
+| 1.5 | 13/03/2021 | Mudando o tamanho dos ícones dass ferremntas| Ítalo |
