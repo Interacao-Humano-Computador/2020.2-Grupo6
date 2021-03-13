@@ -88,4 +88,5 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 | 1.3 | 03/03/2021 | Adicionando as metodologias adotadas | Ítalo |
 | 1.4 | 03/03/2021 | Adicionando o processo de design | Ítalo |
 | 1.5 | 13/03/2021 | Separando o processo de design em outra página (feedback)| Ítalo |
-| 1.5 | 13/03/2021 | Mudando o tamanho dos ícones dass ferremntas| Ítalo |
+| 1.5.1 | 13/03/2021 | Mudando o tamanho dos ícones dass ferremntas| Ítalo |
+| 1.6 | 13/03/2021 | Adicionando sites avaliados individualmente| Ítalo |
