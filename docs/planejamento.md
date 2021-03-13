@@ -8,7 +8,7 @@
 - Ian Fillipe Pontes Ferreira - <a href="https://www.infojobs.com.br/" target="_blank">InfoJobs</a>
 - Italo Vinicius Pereira Guimaraes - <a href="https://vjudge.net/" target="_blank">Vjudge</a>
 
-Em consenso, escolhemos o Vjudge por ser um site que já utilizamos algumas vezes e também possui um escopo menor, facilitando no mapeamento do site e na valiação heurística
+Em consenso, escolhemos o Vjudge por ser um site que já utilizamos algumas vezes e também possui um escopo menor, facilitando no mapeamento do site e na avaliação heurística
 
 O planejamento do Vjudge está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/EX75t_s9mNpNqDmMVwW0GVQBwhi85s7oR4KbHU-CuHLaRQ?e=u3fBUj" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/ESQXBSFnw11DgXHcbxBIzXIBUiBmyUN_TcjCwj0S0EOihg?e=ZU2ZgB" target="_blank">aqui</a>
 
