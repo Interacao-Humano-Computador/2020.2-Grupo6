@@ -13,7 +13,6 @@ Repositório do grupo 06 - Vjudge, destinado ao desenvolvimento da documentaçã
 O Vjudge é um site para resolução de problemas de programação e para criação de listas de exercícios relacionados a esta área, porém não se identifica como um juíz online pois, ele apenas faz uma coletânea de problemas de outros OJs, submetendo as soluções feitas nele no site de origem do problema.
 </p>
 
-
 # Contribuidores
 
 | Foto | Matrícula | Nome | GitHub | E-mail |
