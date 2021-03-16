@@ -17,9 +17,12 @@ nav:
   - Planejamento: planejamento.md
   - Processo de design:
       - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
-  - Análise de Tarefas:
-      - G.O.M.S.: analiseDeTarefas/goms.md
-      - Árvores de tarefas concorrentes: analiseDeTarefas/ctt.md
+  - Análise de requisitos:  
+    - Análise de Tarefas:
+      - G.O.M.S.: analiseDeRequisitos/analiseDeTarefas/goms.md
+      - Árvores de tarefas concorrentes: analiseDeRequisitos/analiseDeTarefas/ctt.md
+    - Perfil do usuário:
+      - Personas: analiseDeRequisitos/perfilDoUsuario/personas.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
   - Atas de reunião:
