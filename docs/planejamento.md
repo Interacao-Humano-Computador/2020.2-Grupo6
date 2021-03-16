@@ -8,9 +8,13 @@
 - Ian Fillipe Pontes Ferreira - <a href="https://www.infojobs.com.br/" target="_blank">InfoJobs</a>
 - Italo Vinicius Pereira Guimaraes - <a href="https://vjudge.net/" target="_blank">Vjudge</a>
 
+<p style="text-indent: 20px; text-align: justify">
 Em consenso, escolhemos o Vjudge por ser um site que já utilizamos algumas vezes e também possui um escopo menor, facilitando no mapeamento do site e na avaliação heurística
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 O planejamento do Vjudge está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/EX75t_s9mNpNqDmMVwW0GVQBwhi85s7oR4KbHU-CuHLaRQ?e=u3fBUj" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/ESQXBSFnw11DgXHcbxBIzXIBUiBmyUN_TcjCwj0S0EOihg?e=ZU2ZgB" target="_blank">aqui</a>
+</p>
 
 ## 2. Cronograma
 
@@ -18,7 +22,9 @@ O planejamento do Vjudge está hospedado <a href="https://unbbr-my.sharepoint.co
 A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integrantes, o grupo organizou um cronograma com o intuito de realizar as tarefas propostas no projeto.
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
 OBS.: Essas datas podem mudar futuramente.
+</p>
 
 ### 2.1 Cronograma de atividades
 
@@ -45,26 +51,43 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 
 ## 3. Metodologia adotada
 
+<p style="text-indent: 20px; text-align: justify">
 No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
+</p>
 
 ## XP - Entreme programming
 
-Pensamos em uma metodologia para se trabalhar, pensamos em várias, porém não conseguiamos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, nós percebos que a gente estava aplicando um XP, sem saber, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Assim escolhemos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
+<p style="text-indent: 20px; text-align: justify">
+Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, escolhemos a metodologia XP, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Adotamos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Dentre as variáveis de controle em projetos (custo, tempo, qualidade e escopo), há um foco explícito em escopo. Para isso, recomenda-se a priorização de funcionalidades que representem maior valor possível para o negócio. Desta forma, caso seja necessário a diminuição de escopo, as funcionalidades menos valiosas serão adiadas ou canceladas.
+</p>
 
 #### Reuniões semanais
-Encontros que faremos toda semana para dividir tarefas e discutir sobre quais são as melhores maneiras de desenvolver este projeto, debatendo sobre as técnicas e modos de aplicá-las em relação ao Vjudge
-    - As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site
+
+<p style="text-indent: 20px; text-align: justify">
+Encontros que faremos toda semana para dividir tarefas e discutir sobre quais são as melhores maneiras de desenvolver este projeto, debatendo sobre as técnicas e modos de aplicá-las em relação ao Vjudge. As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site.
+</p>
 
 #### Criação e disponibilidade de issues
+
+<p style="text-indent: 20px; text-align: justify">
 Vamos listar todas as tarefas que temos que fazer durante a semana e qual o status dessa issue, se resolvermos essa issue, então a fechamos, porém se estivermos tendo problemas, vamos tentar descrever quais problemas que estamos sofrendo.
+</p>
 
 #### Divisão de tarefas
+
+<p style="text-indent: 20px; text-align: justify">
 A partir das reuniões, vamos dividir quais funções são específicas para cada membro e vamos listá-las nas nossas plataformas mais diretas, como Discord e Telegram, essas atividades são separadas por rodízio de dificuldade e trabalho, sendo os integrantes resposáveis por comunicarem quem ficou com a tarefa mais pesada na entrega anterior e assim ficarem com uma tarefa mais simples na tarefa atual
+</p>
 
 #### Responsabilidades
+
+<p style="text-indent: 20px; text-align: justify">
 As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ítalo Vinícius, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Ian Fillipe, porém todos do grupo terão essa responsabilidade de maneira secundária
+</p>
 
 ## 4. Ferramentas Utilizadas
 
@@ -97,3 +120,4 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 | 1.5.1 | 13/03/2021 | Mudando o tamanho dos ícones dass ferremntas| Ítalo |
 | 1.6 | 13/03/2021 | Adicionando sites avaliados individualmente| Ítalo |
 | 1.6 | 13/03/2021 | Especificando metodologia adotada| Ítalo |
+| 1.6.1 | 16/03/2021 | Revisão feita| Ian |

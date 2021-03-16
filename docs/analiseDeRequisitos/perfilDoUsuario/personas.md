@@ -1,18 +1,32 @@
 ## 1. Perfil do Usuário
 
+<p style="text-indent: 20px; text-align: justify">
 Definir o perfil dos usuários em um projeto é sempre pedra fundamental, pois só assim é possível ter conhecimento em totalidade sobre os usuários que utilizarão o sistema a ser desenvolvido, descrevendo estes usuários de forma detalhada, levando em conta as características de interesse, como experiência, faixa etária e atividades a serem desenvolvidas. A definição deste perfil também auxilia no recrutamento de participantes para futuras atividades de análise e avaliação.
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Por fim, as características de um perfil de usuário podem ser priorizadas conforme o produto e projeto em questão.
+</p>
 
+
+<p style="text-indent: 20px; text-align: justify">
 Tendo em vista que o projeto deste grupo trata-se em volta do site Vjudge, de resolução de problemas de programação, o perfil de usuário define-se em estudantes e educadores , com faixa etária a partir da adolescência, usuários dotados de experiência prévia com computadores, nem que seja básica, tecnófilos e em busca de aperfeiçoarem seus conhecimentos por meio de estudos e carreira na área de computação.
+</p>
+
 
 ## 2. Personas
 
+<p style="text-indent: 20px; text-align: justify">
 Uma forma de auxiliar o designer a partir do perfil dos usuários é por meio da criação de personas, que são personagens fictícios que buscam representar o público alvo que será de fato usuário do projeto desenvolvido, em que cada persona criada deve representar um grupo de usuários finais.
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Assim, as funcionalidades desenvolvidas devem ser projetadas especificamente para os requisitos que representam aquelas personas, tornando o desenvolvimento menos generalizado, o que levaria a um trabalho divergente, trazendo gastos desnecessários e redundâncias.
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou as seguintes personas, de forma a representar de fato quem é o público-alvo das funcionalidades do site Vjudge.
+</p>
 
 ### Persona 1
 

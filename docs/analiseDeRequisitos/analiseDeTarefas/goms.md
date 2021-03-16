@@ -226,7 +226,7 @@ Tudo isso o faz uma ótima escolha para o projeto, pois estamos trabalhando sobr
 
 - 4.6 Visualizar Fórum do Virtual Judge
 
-    - <span style="color:blue">GOAL 0:</span> Visualizar grupo;
+    - <span style="color:blue">GOAL 0:</span> Visualizar fórum;
 
         - <span style="color:blue">GOAL 1:</span> Encontrar artigos;
 
@@ -262,4 +262,6 @@ Tudo isso o faz uma ótima escolha para o projeto, pois estamos trabalhando sobr
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
+| 1.0 | 10/03/2021 | G.O.M.S. produzida | Caio e Gabriel |
 | 1.0 | 13/03/2021 | G.O.M.S. adicionada | Ítalo |
+| 1.0.1 | 16/03/2021 | G.O.M.S. revisada | Gabriel |

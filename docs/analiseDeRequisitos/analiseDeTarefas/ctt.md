@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avalia¸c˜ao de IHC (Paterno, 1999). Nesse modelo, existem quatro tipos de tarefas (Figura 8.4a):
+O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e design (Paterno, 1999). Nesse modelo, existem quatro tipos de tarefas:
 
 - tarefas do usuário, realizadas fora do sistema;
 - tarefas do sistema, em que o sistema realiza um processamento sem interagir com o usuário;
@@ -27,7 +27,6 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
         - Visualizar um usuário específico
         - Visualizar o fórum
         - Visualizar os grupos existentes
-
         - Cadastrar-se no site
         - Realizar login
 
@@ -52,19 +51,19 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
 
     - Não conseguimos encontrar ou perceber nenhuma
 
-## 4. Diagramss das árvores de tarefas concorrentes
+## 4. Diagramas das árvores de tarefas concorrentes
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <a href="../../assets/analiseDeTarefas/CTT/legendaCTT.png" target="_blank">
-        <img src="../../assets/analiseDeTarefas/CTT/legendaCTT.png" height="400px" width="400px" style="transition: transform 0.25s ease; cursor: zoom-in;"></img>
+    <a href="../../../assets/analiseDeTarefas/CTT/legendaCTT.png" target="_blank">
+        <img src="../../../assets/analiseDeTarefas/CTT/legendaCTT.png" height="400px" width="400px"></img>
     </a>
     <figcaption>(Figura 1) Legenda das tarefas que serão dispostas no CTT</figcaption>
-    <a href="../../assets/analiseDeTarefas/CTT/comLoginCTT.png" target="_blank">
-        <img src="../../assets/analiseDeTarefas/CTT/comLoginCTT.png" height="100%" width="100%"></img>
+    <a href="../../../assets/analiseDeTarefas/CTT/comLoginCTT.png" target="_blank">
+        <img src="../../../assets/analiseDeTarefas/CTT/comLoginCTT.png" height="100%" width="100%"></img>
     </a>
     <figcaption>(Figura 2) CTT baseado em um usuário que esteja logado</figcaption>
-    <a href="../../assets/analiseDeTarefas/CTT/semLoginCTT.png" target="_blank">
-        <img src="../../assets/analiseDeTarefas/CTT/semLoginCTT.png" height="100%" width="100%"></img>
+    <a href="../../../assets/analiseDeTarefas/CTT/semLoginCTT.png" target="_blank">
+        <img src="../../../assets/analiseDeTarefas/CTT/semLoginCTT.png" height="100%" width="100%"></img>
     </a>
     <figcaption>(Figura 3) CTT baseado em um usuário que não esteja logado (abra)</figcaption>
 </div>
@@ -78,4 +77,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 13/03/2021 | C.T.T. criada e adicionada | Ítalo |
+| 1.0 | 10/03/2021 | C.T.T. produzida | Ian e Ítalo |
+| 1.0 | 13/03/2021 | C.T.T. adicionada | Ítalo |
+| 1.0.1 | 16/03/2021 | Revisão feita| Ian |
