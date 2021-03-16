@@ -36,7 +36,8 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
         -  Favoritar um problema específico
         - Participar de um de um grupo
         - Criar um grupo
-        - Partipar de um contesCriar um contes
+        - Partipar de um contes
+        - Criar um contes
 
 - Tarefa de usuário
 
