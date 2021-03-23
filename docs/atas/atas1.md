@@ -6,7 +6,7 @@ Desenvolvemos a documentação inicial do site e gravamos a apresentação do tr
 
 |    Integrante    |      Ação      |
 | :--------: | :-------------: |
-|Bonifácio | Desenvou o ciclo de vida e apresentou o rpocesso de design |
+|Bonifácio | Desenvolveu o ciclo de vida e apresentou o processo de design |
 |Caio | Criou a tabela de cronogramas e apresentou a tabelas de horários disponíveis|
 |Guilherme | Escreveu o texto de processo de design e apresentou o cronograma |
 |Ian | Desenvolveu e apresentou a área de ferramentas |

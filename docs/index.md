@@ -21,4 +21,4 @@ O Vjudge é um site para resolução de problemas de programação e para criaç
 |<img width="150px" style="border-radius:10%" src="./assets/integrantes/gabriel.jpg" alt="Gabriel">|180145088|Gabriel Bonifácio Perez Nunes|gabrielbpn|gabrielbpn0802@gmail.com|
 |<img width="150px" style="border-radius:10%" src="./assets/integrantes/guilherme.jpg" alt="Guilherme">|180101617|Guilherme de Morais Richter|guilhermemoraisr|guilhermemoraisr@gmail.com|
 |<img width="150px" style="border-radius:10%" src="./assets/integrantes/ian.jpg" alt="Ian">|180102087|Ian Fillipe Pontes Ferreira|IanFPFerreira|ianfillipe@gmail.com|
-|<img width="150px" style="border-radius:10%" src="./assets/integrantes/italo.jpg" alt="Italo">|180102656|Italo Vinicius Pereira Guimaraes|italovinicius18|italovinicius18@yahoo.com|
+|<img width="150px" style="border-radius:10%" src="./assets/integrantes/italo.jpg" alt="Italo">|180102656|Ítalo Vinícius Pereira Guimarães|italovinicius18|italovinicius18@yahoo.com|

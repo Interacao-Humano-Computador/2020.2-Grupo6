@@ -41,7 +41,7 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
 
 - Tarefa de usuário
 
-    - Resolver o problema usando uma IDE ou editor de texo
+    - Resolver o problema usando uma IDE ou editor de texto
 
 - Tarefa do sistema
 

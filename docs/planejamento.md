@@ -6,7 +6,7 @@
 - Gabriel Bonifácio Perez Nunes -  <a href="http://www.portaltransparencia.gov.br/" target="_blank">Portal da transparência</a>
 - Guilherme de Morais Richter - <a href="https://www.notalegal.df.gov.br/" target="_blank">Nota legal</a>
 - Ian Fillipe Pontes Ferreira - <a href="https://www.infojobs.com.br/" target="_blank">InfoJobs</a>
-- Italo Vinicius Pereira Guimaraes - <a href="https://vjudge.net/" target="_blank">Vjudge</a>
+- Ítalo Vinícius Pereira Guimarães - <a href="https://vjudge.net/" target="_blank">Vjudge</a>
 
 <p style="text-indent: 20px; text-align: justify">
 Em consenso, escolhemos o Vjudge por ser um site que já utilizamos algumas vezes e também possui um escopo menor, facilitando no mapeamento do site e na avaliação heurística
@@ -36,7 +36,7 @@ OBS.: Essas datas podem mudar futuramente.
 |Entrega da apresentação do projeto|09/04|Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|
 |Entrega da apresentação do projeto|23/04|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
 |Entrega da apresentação do projeto|30/04|Relato dos resultados do Protótipo de Papel e Planejamento daAvaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
-|Verificação dos artefatos.|04/05|Verificação dos artefatos construidos no projeto|
+|Verificação dos artefatos.|04/05|Verificação dos artefatos construídos no projeto|
 |Entrega da apresentação do projeto final|10/05|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
 
 ### 2.2 Disponibilidade dos integrantes
@@ -55,7 +55,7 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
 </p>
 
-## XP - Entreme programming
+## XP - Extreme programming
 
 <p style="text-indent: 20px; text-align: justify">
 Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, escolhemos a metodologia XP, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Adotamos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
@@ -117,7 +117,7 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 | 1.3 | 03/03/2021 | Adicionando as metodologias adotadas | Ítalo |
 | 1.4 | 03/03/2021 | Adicionando o processo de design | Ítalo |
 | 1.5 | 13/03/2021 | Separando o processo de design em outra página (feedback)| Ítalo |
-| 1.5.1 | 13/03/2021 | Mudando o tamanho dos ícones dass ferremntas| Ítalo |
+| 1.5.1 | 13/03/2021 | Mudando o tamanho dos ícones das ferramentas| Ítalo |
 | 1.6 | 13/03/2021 | Adicionando sites avaliados individualmente| Ítalo |
 | 1.6 | 13/03/2021 | Especificando metodologia adotada| Ítalo |
 | 1.6.1 | 16/03/2021 | Revisão feita| Ian |

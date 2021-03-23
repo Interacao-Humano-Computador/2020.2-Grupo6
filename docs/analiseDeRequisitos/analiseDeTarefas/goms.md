@@ -4,7 +4,7 @@ No início, propuseram um conjunto de modelos chamado de família GOMS para anal
 
 ## 2. O método
 
-O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos (&quot;Goals&quot;), operadores (&quot;Operators&quot;), métodos (&quot;Methods&quot;) e regras de seleção (&quot;Selection Rules&quot;). Sendo os objetivos as tarefas propriamente ditas, aquilo que o usuário deseja efetuar, os operadores as ações necessárias para atingir determinado objetivo, os métodos são um conjunto de operações, uma série de etapas, e por fim, as selecções são os diferentes modos que o usuário pode interagir com o sistema.
+O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos (&quot;Goals&quot;), operadores (&quot;Operators&quot;), métodos (&quot;Methods&quot;) e regras de seleção (&quot;Selection Rules&quot;). Sendo os objetivos as tarefas propriamente ditas, aquilo que o usuário deseja efetuar, os operadores as ações necessárias para atingir determinado objetivo, os métodos são um conjunto de operações, uma série de etapas, e por fim, as seleções são os diferentes modos que o usuário pode interagir com o sistema.
 
 ## 3. Motivos da Escolha
 
