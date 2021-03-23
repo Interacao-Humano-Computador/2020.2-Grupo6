@@ -6,7 +6,7 @@ Desenvolvemos a documentação inicial do site e gravamos a apresentação do tr
 
 |    Integrante    |      Ação      |
 | :--------: | :-------------: |
-|Bonifácio | Desenvolveu o ciclo de vida e apresentou o processo de design |
+|Gabriel | Desenvolveu o ciclo de vida e apresentou o processo de design |
 |Caio | Criou a tabela de cronogramas e apresentou a tabelas de horários disponíveis|
 |Guilherme | Escreveu o texto de processo de design e apresentou o cronograma |
 |Ian | Desenvolveu e apresentou a área de ferramentas |
@@ -14,7 +14,8 @@ Desenvolvemos a documentação inicial do site e gravamos a apresentação do tr
 
 ## 2. Local
 
-Chamada online no Discord
+- Chamada online no Discord
+- Teams para gravação da apresentação
 
 ## 2. Versionamento
 
