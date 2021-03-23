@@ -61,7 +61,7 @@ Por conseguinte, tem-se a fase de design, avaliação e desenvolvimento, que tem
 Devido às características mencionadas acima do processo de Engenharia de Usabilidade de Mayweh e dos demais processos que não utilizaremos, a equipe decidiu em colocar em prática esse Ciclo de Vida no nosso projeto para que possamos buscar o melhor desenvolvimento possível diante da nossa proposta.
 </p>
 
-## Referêcia
+## Referência
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação.
