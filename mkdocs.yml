@@ -23,6 +23,9 @@ nav:
       - Árvores de tarefas concorrentes: analiseDeRequisitos/analiseDeTarefas/ctt.md
     - Perfil do usuário:
       - Personas: analiseDeRequisitos/perfilDoUsuario/personas.md
+    - Princípios Gerais de Projeto: analiseDeRequisitos/principiosGeraisDeProjeto.md
+    - Metas de usabilidade: analiseDeRequisitos/metasDeUsabilidade.md
+    - Guia de Estilo: analiseDeRequisitos/guiaDeEstilo.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md

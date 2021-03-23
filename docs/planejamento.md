@@ -13,7 +13,7 @@ Em consenso, escolhemos o Vjudge por ser um site que já utilizamos algumas veze
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-O planejamento do Vjudge está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/EX75t_s9mNpNqDmMVwW0GVQBwhi85s7oR4KbHU-CuHLaRQ?e=u3fBUj" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/ESQXBSFnw11DgXHcbxBIzXIBUiBmyUN_TcjCwj0S0EOihg?e=ZU2ZgB" target="_blank">aqui</a>
+O planejamento do Vjudge está hospedado <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/EX75t_s9mNpNqDmMVwW0GVQBwhi85s7oR4KbHU-CuHLaRQ?e=u3fBUj" target="_blank">aqui</a> e a avalição heurística está <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180102656_aluno_unb_br/ESQXBSFnw11DgXHcbxBIzXIBUiBmyUN_TcjCwj0S0EOihg?e=ZU2ZgB" target="_blank">aqui</a>.
 </p>
 
 ## 2. Cronograma
@@ -50,7 +50,7 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 </div>
 
 ## 3. Metodologia adotada
-
+e
 <p style="text-indent: 20px; text-align: justify">
 No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
 </p>
