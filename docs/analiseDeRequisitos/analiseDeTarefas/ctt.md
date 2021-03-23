@@ -1,6 +1,8 @@
 ## 1. Introdução
 
+<p style="text-indent: 20px; text-align: justify">
 O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e design (Paterno, 1999). Nesse modelo, existem quatro tipos de tarefas:
+</p>
 
 - tarefas do usuário, realizadas fora do sistema;
 - tarefas do sistema, em que o sistema realiza um processamento sem interagir com o usuário;
@@ -9,7 +11,9 @@ O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criad
 
 ## 2. Escolha da técnica
 
+<p style="text-indent: 20px; text-align: justify">
 Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, percebemos que ela é muito descritiva e textual, então escolhemos o CTT por ser mais imagética e visual, ajudando a facilitar a análise de cada tarefa da aplicação, percebemos que ela também ajuda na otimização da separação das tarefas, facilitando a compreensão de cada função ou tarefa e em qual tipo ela se encaixa.
+</p>
 
 ## 3. Tarefas
 

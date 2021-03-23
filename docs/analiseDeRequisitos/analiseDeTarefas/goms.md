@@ -1,16 +1,24 @@
 ## 1. Introdução
 
+<p style="text-indent: 20px; text-align: justify">
 No início, propuseram um conjunto de modelos chamado de família GOMS para analisar o desempenho de usuários competentes de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros. Os modelos GOMS têm se mostrado úteis para prever o desempenho, ou seja, predizer o impacto de decisões de design no desempenho competente.
+</p>
 
 ## 2. O método
 
+<p style="text-indent: 20px; text-align: justify">
 O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos (&quot;Goals&quot;), operadores (&quot;Operators&quot;), métodos (&quot;Methods&quot;) e regras de seleção (&quot;Selection Rules&quot;). Sendo os objetivos as tarefas propriamente ditas, aquilo que o usuário deseja efetuar, os operadores as ações necessárias para atingir determinado objetivo, os métodos são um conjunto de operações, uma série de etapas, e por fim, as seleções são os diferentes modos que o usuário pode interagir com o sistema.
+</p>
 
 ## 3. Motivos da Escolha
 
+<p style="text-indent: 20px; text-align: justify">
 O GOMS foi adotado como nosso método de análise e decomposição de tarefas devido sua aplicabilidade em situações onde os usuários já tenham conhecimento dos métodos para a realização de tarefas, podendo ser usado tanto para prever e analisar a performance de usuários em suas realizações quanto para melhorar a eficácia em processos rotineiros.
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 Tudo isso o faz uma ótima escolha para o projeto, pois estamos trabalhando sobre uma plataforma já construída, e com ele podemos, por meio de uma lista de objetivos de usuário, obtermos aqueles que podem estar utilizando métodos ineficientes de interação, inconsistências e outros problemas de design.
+</p>
 
 ## 4. Objetivos
 
