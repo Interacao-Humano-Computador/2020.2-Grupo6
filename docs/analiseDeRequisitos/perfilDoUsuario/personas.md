@@ -28,7 +28,7 @@ Assim, as funcionalidades desenvolvidas devem ser projetadas especificamente par
 Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou as seguintes personas, de forma a representar de fato quem é o público-alvo das funcionalidades do site Vjudge.
 </p>
 
-### Persona 1
+### Personas criadas
 
 | Persona | Enzo Ribeiro de Souza |
 |--|--|
@@ -44,7 +44,6 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 | Tarefas: | Precisa manter-se bem no ranking de Free Fire, e treinar para os campeonatos do seu bairro (e agora também da universidade). Realiza toda sexta-feira as atividades da universidade, precisa cuidar da sua irmã mais nova quase todos os dias. |
 | Expectativas: | Espera que o sistema seja fácil de aprender a usar, e não demande muito trabalho para realizar as listas que os professores pedem. |
 
-### Persona 2
 
 | Persona | Rogério Costa |
 |--|--|
@@ -59,8 +58,6 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 | Requisitos: | Realizar listas de exercícios e corrigi-las. |
 | Tarefas: | Dá aula em 3 disciplinas, por isso precisa sempre organizá-las, corrigir os exercícios e realizar os exames. Paga as contas da casa, faz compras e dá conselhos à sua filha mais velha. |
 | Expectativas: | Precisa que o sistema realize os contests de forma simples e eficiente, e concentre os resultados de forma organizada, para dar as notas aos seus alunos. |
-
-### Persona 3
 
 
 | Persona | Emanuel Pereira da Silva |
@@ -77,7 +74,6 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 | Tarefas: | Trabalha remotamente na Google Brasil, precisa enviar suas demandas diariamente. No seu mestrado, seu orientador aconselhou que ele realize estudos sobre como os alunos da universidade se relacionam com as atividades propostas. Assim, ele precisa colher dados e fazer um estudo em cima nas plataformas que os alunos utilizam. Cuida da sua mãe, que é aposentada e necessita de algumas ajudas. |
 | Expectativas: | Espera que o sistema apresente de forma aberta os resultados dos contest, e dados relativos a tempo de envio, duração e também ranqueamento. |
 
-### Persona 4
 
 | Persona | Ana Maria Vieira |
 |--|--|
