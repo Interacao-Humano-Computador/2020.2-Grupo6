@@ -13,7 +13,7 @@ No escopo do trabalho, a equipe usará o guia de estilo com o objetivo de servir
 ### Organização e conteúdo do guia de estilo
 
 <p style="text-indent: 20px; text-align: justify">
-A organização do guai de estilo será definido a partir do livro Interação Humano Computador da autora Simone Barbosa e será orientado a partir do ciclo de vida Mayhew, o qual sugere que o guia de estilo tem que ser seguido ou modificado a cada nível de prototipagem.
+A organização do guia de estilo será definido a partir do livro Interação Humano Computador da autora Simone Barbosa e será orientado a partir do ciclo de vida Mayhew, o qual sugere que o guia de estilo tem que ser seguido ou modificado a cada nível de prototipagem.
 </p>
 
 ### Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte)
@@ -47,7 +47,7 @@ O usuário necessita de um ambiente que não tenha problemas para se manter no s
 ### Disposição espacial e grid
 
 <p style="text-indent: 20px; text-align: justify">
-Nos baseamos já no site original, no entanto, creio que o design do layout não é muito agradável Á experiência do usuário, por isso redesenhamos para que se torna mais confortável 
+Nos baseamos já no site original, no entanto, creio que o design do layout não é muito agradável à experiência do usuário, por isso redesenhamos para que se torna mais confortável 
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
@@ -210,3 +210,4 @@ Haverá sequências de diálogos para o usuário, no momento que este realizar a
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 23/03/2021 | Guia de estilo produzido | Todos os integrantes |
+| 1.0.1 | 25/03/2021 | Guia de estilo revisado | Todos os integrantes |

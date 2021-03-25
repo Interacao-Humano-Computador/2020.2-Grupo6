@@ -103,6 +103,7 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 |<img width="80px" height="80px" src="../assets/icons/discord.png" alt="Discord_icon">|Discord|Ferramenta principal de chamada entre o grupo|
 |<img width="80px" height="80px" src="../assets/icons/telegram.png" alt="Telegram_icon">|Telegram|Mensageiro principal do grupo para diálogo ocasional|
 |<img width="80px" height="80px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
+|<img width="80px" height="80px" src="../assets/icons/liveShare.jpg" alt="VSCode_icon">|LiveShare|Editor de código-fonte de uma maneira compartilhada em equipe|
 
 ## Referências:
 

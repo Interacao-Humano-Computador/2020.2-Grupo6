@@ -4,6 +4,8 @@
 
 Desenvolvemos a documentação inicial do site e gravamos a apresentação do trabalho, cada integrante ficou resposável por uma tarefa
 
+<center>
+
 |    Integrante    |      Ação      |
 | :--------: | :-------------: |
 |Gabriel | Desenvolveu o ciclo de vida e apresentou o processo de design |
@@ -11,6 +13,8 @@ Desenvolvemos a documentação inicial do site e gravamos a apresentação do tr
 |Guilherme | Escreveu o texto de processo de design e apresentou o cronograma |
 |Ian | Desenvolveu e apresentou a área de ferramentas |
 |Ítalo | Desenvolveu o site, a metodologia e foi atualizando a documentação do site e apresentou as metodologias e introdução |
+
+</center>
 
 ## 2. Local
 

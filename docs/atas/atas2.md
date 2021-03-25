@@ -4,11 +4,15 @@
 
 Desenvolvemos a documentação da análise de requisitos site e gravamos a segunda apresentação do trabalho, cada integrante ficou resposável por uma tarefa
 
+<center>
+
 |    Integrante    |      Ação      |
 | :--------: | :-------------: |
 |Caio e Gabriel | Desenvolveram o G.O.M.S. |
 |Ian e Ítalo| Desenvolveram o C.T.T. |
 |Guilherme | Desenvolveu o Perfil de Usário (Personas) |
+
+</center>
 
 ## 2. Local
 
