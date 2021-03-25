@@ -92,3 +92,15 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 | Requisitos: | Não se deparar com páginas que atrapalhem as suas buscas na internet. |
 | Tarefas: | Cozinha e lava na sua casa todos os dias, normalmente só acessa o computador para trabalho, e quando não, normalmente é para pesquisar sobre coisas que gosta. Ajuda sua amiga em sua confeitaria delivery, precisa sempre procurar saber ou visitar o seu rancho em construção. |
 | Expectativas: | Durante o seu uso na internet, espera não se deparar com esse tipo de site, pois não tem interesse e não tem conhecimento do que se trata, atrapalha. |
+
+## Referências
+
+> BARBOSA, Simone; SILVA, Bruno. &quot;Interação Humano-Computador&quot;. Elsevier Editora Ltda, 2010.
+> Imagens foram retiradas do site: <a href="https://www.pexels.com/pt-br/" target="_blank">Pexels</a>.
+
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 11/03/2021 | Personas produzidas | Caio e Gabriel |
+| 1.0 | 13/03/2021 | Personas adicionadas | Ítalo |
