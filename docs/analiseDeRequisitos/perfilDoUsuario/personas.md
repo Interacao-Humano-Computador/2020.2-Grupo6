@@ -50,7 +50,7 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 |--|--|
 | Status: | Persona primária |
 | Foto: | <img src="https://images.pexels.com/photos/2861798/pexels-photo-2861798.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" alt="Rogério" style="width:160px;"/> |
-| Idade: | 17 anos |
+| Idade: | 43 anos |
 | Profissão: | Professor universitário |
 | Escolaridade: | Doutorado em Segurança de Redes |
 | Objetivos: | Quitar a sua casa, conseguir organizar o intercâmbio da sua filha e completar 5 anos de docência na universidade. |
@@ -67,7 +67,7 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 |--|--|
 | Status: | Persona secundária |
 | Foto: | <img src="https://images.pexels.com/photos/4861373/pexels-photo-4861373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="Emanuel" style="width:160px;"/> |
-| Idade: | 43 anos |
+| Idade: | 29 anos |
 | Profissão: | Analista de dados na Google Brasil |
 | Escolaridade: | Mestrando em Ciência de Dados |
 | Objetivos: | Realizar PhD em Ciência de Dados, conseguir uma vaga em alguma filial da Google na Inglaterra. |
