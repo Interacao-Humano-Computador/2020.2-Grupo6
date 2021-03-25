@@ -96,6 +96,7 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 ## Referências
 
 > BARBOSA, Simone; SILVA, Bruno. &quot;Interação Humano-Computador&quot;. Elsevier Editora Ltda, 2010.
+
 > Imagens foram retiradas do site: <a href="https://www.pexels.com/pt-br/" target="_blank">Pexels</a>.
 
 ## Versionamento
