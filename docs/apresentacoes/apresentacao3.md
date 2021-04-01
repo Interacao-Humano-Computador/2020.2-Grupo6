@@ -11,3 +11,4 @@
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 |    25/03/21    | 1.0 |            Apresentação da continuação da análise de tarefas do projeto adicionada             |      Ítalo      |
+|    01/04/21    | 1.1 |            Corrigindo nome (análise de tarefas -> análise de  requisitos)            |      Ítalo      |
