@@ -8,6 +8,8 @@ theme:
   language: 'pt'
   logo: 'assets/icons/vjudge.png'
   favicon: 'assets/icons/codercat.png'
+  icon:
+    repo: fontawesome/brands/github
 
 extra_css:
   - stylesheets/extra.css
