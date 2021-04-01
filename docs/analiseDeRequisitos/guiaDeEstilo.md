@@ -52,7 +52,7 @@ Nos baseamos já no site original, no entanto, creio que o design do layout não
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
     <img src="../../assets/analiseDeTarefas/guiaDeEstilo/layout.png" width="600px"></img>
-    <figcaption>(Figura 1) Layout e grid</figcaption>
+    <figcaption>Figura 1 - Layout e grid</figcaption>
 </div>
 
 
@@ -70,7 +70,7 @@ A fonte a ser utilizada por nós será a <a href="https://fonts.google.com/speci
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
     <img src="../../assets/analiseDeTarefas/guiaDeEstilo/poppins_example.png" width="600px"></img>
-    <figcaption>(Figura 2) Exemplo fonte Poppins</figcaption>
+    <figcaption>Figura 2 - Exemplo fonte Poppins</figcaption>
 </div>
 
 ### Símbolos não tipográficos
@@ -101,7 +101,7 @@ A fonte a ser utilizada por nós será a <a href="https://fonts.google.com/speci
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
     <img src="../../assets/analiseDeTarefas/guiaDeEstilo/primarias.png" width="600px"></img>
-    <figcaption>(Figura 3) Cores principais</figcaption>
+    <figcaption>Figura 3 - Cores principais</figcaption>
 </div>
 
 <a href="https://coolors.co/0b2027-40798c-fdca40-f79824-f1f2f6" target="_blank">Link da Imagem aqui</a>
@@ -114,7 +114,7 @@ A fonte a ser utilizada por nós será a <a href="https://fonts.google.com/speci
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
     <img src="../../assets/analiseDeTarefas/guiaDeEstilo/secundarias.png" width="600px"></img>
-    <figcaption>(Figura 4) Cores secundarias</figcaption>
+    <figcaption>Figura 4 - Cores secundarias</figcaption>
 </div>
 
 <a href="https://coolors.co/698f3f-57a773-e3170a-ff0035-706d74" target="_blank">Link da Imagem aqui</a>

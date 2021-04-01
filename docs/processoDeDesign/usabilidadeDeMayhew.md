@@ -36,7 +36,7 @@ O ciclo é dividido em três fases, respectivamente: primeiro a **análise de re
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img width="600px" src="../../assets/cicloDeVida/ciclo_mayhew.png">
-  <figcaption>(Figura 1) Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</figcaption>
+  <figcaption>Figura 1 - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</figcaption>
 </div>
 
 <p style="text-indent: 20px; text-align: justify">

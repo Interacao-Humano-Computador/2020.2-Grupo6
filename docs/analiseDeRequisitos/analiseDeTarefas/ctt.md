@@ -62,15 +62,15 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
     <a href="../../../assets/analiseDeTarefas/CTT/legendaCTT.png" target="_blank">
         <img src="../../../assets/analiseDeTarefas/CTT/legendaCTT.png" height="400px" width="400px"></img>
     </a>
-    <figcaption>(Figura 1) Legenda das tarefas que serão dispostas no CTT</figcaption>
+    <figcaption>Figura 1 - Legenda das tarefas que serão dispostas no CTT</figcaption>
     <a href="../../../assets/analiseDeTarefas/CTT/comLoginCTT.png" target="_blank">
         <img src="../../../assets/analiseDeTarefas/CTT/comLoginCTT.png" height="100%" width="100%"></img>
     </a>
-    <figcaption>(Figura 2) CTT baseado em um usuário que esteja logado</figcaption>
+    <figcaption>Figura 2 - CTT baseado em um usuário que esteja logado</figcaption>
     <a href="../../../assets/analiseDeTarefas/CTT/semLoginCTT.png" target="_blank">
         <img src="../../../assets/analiseDeTarefas/CTT/semLoginCTT.png" height="100%" width="100%"></img>
     </a>
-    <figcaption>(Figura 3) CTT baseado em um usuário que não esteja logado (abra)</figcaption>
+    <figcaption>Figura 3 - CTT baseado em um usuário que não esteja logado (abra)</figcaption>
 </div>
 
 ## Referência

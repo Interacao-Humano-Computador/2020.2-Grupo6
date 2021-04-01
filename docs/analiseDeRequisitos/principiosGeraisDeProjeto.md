@@ -4,9 +4,9 @@
 Princípios costumam representar objetivos gerais e de alto nível; diretrizes, regras gerais comumente observadas na
 prática; e padrões, soluções específicas a certos contextos bem delimitados, envolvendo certos usuários
 desempenhando determinadas tarefas. Entretanto, essa classificação nem sempre é utilizada precisamente,
-e alguns proponentes de diretrizes as intitulam de princípios. Os conjuntos mais conhecidos de princípios
+e alguns proponentes de diretrizes as intitulam de princípios. "Os conjuntos mais conhecidos de princípios
 e diretrizes são os de Norman (1988), de Tognazzini (2014), as heurísticas de Nielsen (1994) e as regras
-de ouro de Shneiderman (Shneiderman, 1998).
+de ouro de Shneiderman (Shneiderman, 1998)." Barbosa, G. D. J. (2021)
 </p>
 
 ## Princípios
@@ -82,8 +82,17 @@ Os princípios citados no livro da Simone Barbosa são:
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
+> NORMAN, D. A. The psychology of everyday things. New York, NY, US: Basic Books, 1988. p. xi, 257
+
+> TOGNAZZINI, B. First Principles of Interaction Design (Revised & Expanded)askTog, 6 mar. 2014. Disponível em: <https://asktog.com/atc/principles-of-interaction-design/>. Acesso em: 1 abr. 2021
+
+> NIELSEN, J.; MACK, R. L. (EDS.). Usability Inspection Methods. 1st edition ed. New York: Wiley, 1994. 
+
+> SHNEIDERMAN, B.; PLAISANT, C. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 5ª edição ed. Boston: Addison Wesley Longman, 2009. 
+
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 23/03/2021 | Princípios gerais de projeto produzido | Todos os integrantes |
+| 1.1 | 01/04/2021 | Revisão das referências | Ítalo, Guilherme e Ian |
