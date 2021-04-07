@@ -28,7 +28,7 @@ Assim, as funcionalidades desenvolvidas devem ser projetadas especificamente par
 Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou as seguintes personas, de forma a representar de fato quem é o público-alvo das funcionalidades do site Vjudge.
 </p>
 
-### Personas criadas
+### 2.1. Personas criadas
 
 | Persona | Enzo Ribeiro de Souza |
 |--|--|

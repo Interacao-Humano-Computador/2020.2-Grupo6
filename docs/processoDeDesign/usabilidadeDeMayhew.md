@@ -1,6 +1,4 @@
-# Processo de design
-
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Antes de tudo, é necessário entender que o design é um processo que envolve as seguintes atividades básicas: a análise da situação atual (identificação do problema), a síntese de uma intervenção e a avaliação dessa intervenção projetada ou já aplicada à situação atual.
@@ -10,7 +8,7 @@ Antes de tudo, é necessário entender que o design é um processo que envolve a
 E é por isso que precisamos entender a importância do processo de design, porque cada processo detalha essas atividades básicas de uma forma particular, definindo: como executar cada atividade, a sequência em que elas devem ser executadas; quais atividades podem se repetir, e por quais motivos; e os artefatos consumidos e produzidos em cada uma delas. (Interação Humano Computador, Barbosa e Silva, 2010).
 </p>
 
-## Processo selecionado
+## 2. Processo selecionado
 
 <p style="text-indent: 20px; text-align: justify">
 Trabalharemos com o processo de Engenharia de Usabilidade de Mayhew, também conhecido como o Ciclo de Vida de Mayweh.
@@ -28,7 +26,7 @@ Se analisarmos o Ciclo de Vida em Estrela, por exemplo, concluímos que os proce
 O que nos levou também à escolha desse processo, foi justamente a quantidade de atividades objetivas que precisamos fazer, tornando tudo menos subjetivo e mais claro.
 </p>
 
-## Ciclo de Vida de Mayhew
+## 3. Ciclo de Vida de Mayhew
 
 <p style="text-indent: 20px; text-align: justify">
 O ciclo é dividido em três fases, respectivamente: primeiro a **análise de requisitos** , em segundo o **design, avaliação e desenvolvimento** e finalmente a **instalação**.
@@ -55,7 +53,7 @@ A partir desse ponto se passa a utilizar o ciclo de vida da Mayhew, especificame
 Por conseguinte, tem-se a fase de design, avaliação e desenvolvimento, que tem por objetivo conceber uma solução que atenda às metas de usabilidade estabelecidas na fase anterior. Neste ponto, é feita a reengenharia do trabalho, protótipos conceituais seguido de avaliação sobre se as falhas foram eliminadas. No próximo nível, é desenvolvido o protótipo dos padrões de design da tela, e avaliado se as metas de usabilidade foram atendidas. Caso sim, é feito o design detalhado da interface do usuário, e por fim uma avaliação geral se todas as funcionalidades foram concluídas. Deste ponto, pode-se partir para o escopo da produção, sobre opinião do usuário final.
 </p>
 
-## Conclusão
+## 4. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
 Devido às características mencionadas acima do processo de Engenharia de Usabilidade de Mayweh e dos demais processos que não utilizaremos, a equipe decidiu em colocar em prática esse Ciclo de Vida no nosso projeto para que possamos buscar o melhor desenvolvimento possível diante da nossa proposta.

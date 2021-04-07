@@ -1,4 +1,4 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 Princípios costumam representar objetivos gerais e de alto nível; diretrizes, regras gerais comumente observadas na
@@ -9,7 +9,7 @@ e diretrizes são os de Norman (1988), de Tognazzini (2014), as heurísticas de 
 de ouro de Shneiderman (Shneiderman, 1998)." Barbosa, G. D. J. (2021)
 </p>
 
-## Princípios
+## 2. Princípios
 
 <p style="text-indent: 20px; text-align: justify">
 Os princípios citados no livro da Simone Barbosa são:
@@ -44,9 +44,9 @@ Os princípios citados no livro da Simone Barbosa são:
 
 
 
-## Princípios no Vjudge
+## 3. Princípios no Vjudge
 
-### Presentes
+### 3.1. Presentes
 
 - Correspondência com as Expectativas dos Usuários
     - <p style="text-align: justify">O usuário consegue determinar os relacionamentos presentes entre as variáveis mentais e físicas dentro do Vjudge, e as expectativas são correspondidas.</p>
@@ -57,7 +57,7 @@ Os princípios citados no livro da Simone Barbosa são:
 - Equilíbrio entre controle e liberdade do usuário
     - <p style="text-align: justify">O usuário tem a liberdade de acessar uma "saída" rapidamente, mas é mais intuitivo ao usuário se manter no Vjudge.</p>
 
-### Não presentes
+### 3.2. Não presentes
 
 - Consistência e padronização
     - <p style="text-align: justify">Como as questões do site são tiradas de diversos Online Judge's, a página dessas questões no Vjudge não possuem uma padronização visual, ou seja, a interface das questões variam bastante.</p>

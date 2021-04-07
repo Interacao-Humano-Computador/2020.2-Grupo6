@@ -1,4 +1,4 @@
-## Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 A usabilidade é geralmente considerada como uma garantia de que os produtos interativos são
@@ -7,7 +7,7 @@ otimizar as interações que as pessoas têm com produtos interativos para permi
 realizem suas atividades no trabalho, na escola e na vida cotidiana (Preece, Jennifer et. al, 2002).
 </p>
 
-## As metas de usabilidade 
+## 2. As metas de usabilidade 
 
 <p style="text-indent: 20px; text-align: justify">
 As metas de usabilidade possuem o objetivo de fornecer ao designer de interação um meio concreto de avaliar os vários aspectos de um produto interativo e da experiência de usuário. (Preece, Jennifer et. al, 2002).
@@ -23,13 +23,13 @@ Nesse sentido, os autores dividem as metas de usabilidade nas seguintes:
 - <i>Learnability</i>: esta meta é descrita como "ser fácil de aprender", e no geral se refere à facilidade de aprender a usar um sistema, permitindo que o usuário consiga utilizá-lo rapidamente e se tornarem competentes realizando tarefas sem muito esforço, correspondendo ao tempo a que os usuários estão dispostos a gastar para aprenderem a usar o produto.
 - <i>Memorability</i>: esta meta é descrita como "ser fácil de lembrar como usar", e no geral se refere e à facilidade de o usuário lembrar como utilizar um sistema depois de já tê-lo aprendido, em que os usuários não devam ter de reaprender a realizar as tarefas, ou que ao menos sejam lembrados de como realizá-las. Assim, esta meta busca combater tarefas que para serem aprendidas são obscuras, ilógicas ou mal sequenciadas.
 
-## As metas de usabilidade aplicadas ao Vjudge
+### 2.1. As metas de usabilidade aplicadas ao Vjudge
 
 - Eficácia: o Vjudge promete a disponibilização de problemas de programação e assim o faz, fora as outras funcionalidades (fórum, contests, entre outros).
 - Utilidade: o VJudge oferece ao usuário a possibilidade de fazer o que desejam eficientemente.
 - <i>Memorability</i>: por ter funcionalidades muito objetivas, apesar de relativamente complexas, o usuário consegue se lembrar como usar após já ter utilizado previamente.
 
-## As metas de usabilidade não aplicadas ao Vjudge
+### 2.2. As metas de usabilidade não aplicadas ao Vjudge
 
 - Eficiência: O usuário precisa aprender por si só diversos passos complexos do VJudge para poder usufruir dele.
 - Segurança: a aplicação não apresenta uma proteção para o usuário quanto a condições perigosas e situações indesejáveis.
