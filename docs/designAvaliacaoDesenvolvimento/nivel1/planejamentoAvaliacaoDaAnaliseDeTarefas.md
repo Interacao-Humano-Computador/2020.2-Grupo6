@@ -47,20 +47,34 @@ O ambiente para a realização da avaliação não estará ao cargo dos avaliado
 
 <p style="text-indent: 20px; text-align: justify">
 Para a participação nesta avaliação, o participante, que é voluntário, deverá concordar com o seguinte termo de consentimento:
+</p>
 
+<p style="text-indent: 20px; text-align: justify">
 “Somos o grupo 6 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise quanto à abrangência e efetivação dos requisitos e interação com usuário e respectiva remodelagem do sistema interativo Vjudge, que é um site da comunidade destinado à resolução de problemas de programação. Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que irão usar o sistema pensam a respeito da análise de tarefas realizada por este grupo, e como imaginam que o novo sistema deveria apoiar o seu trabalho. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa: 
-• Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do estudo acerca das interações com o usuário feitas durante o uso do sistema Vjudge. 
-• Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o docente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e a preservação de seus dados pessoais serão preservados em quaisquer documentos que elaborarmos, apenas utilizando da sua identificação básica, nome e idade, e ocupação. 
-• O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa. 
-• A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade. 
-• Nossa equipe encontra-se disponível para contato através do e-mail 180101617@aluno.unb.br. 
-De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: ( ) Dou meu consentimento para a sua realização. 
-( ) Não consinto com a sua realização. 
+</p>
+
+<ul>
+<li> Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e desenvolvimento do estudo acerca das interações com o usuário feitas durante o uso do sistema Vjudge. </li>
+<li> Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o docente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e a preservação de seus dados pessoais serão preservados em quaisquer documentos que elaborarmos, apenas utilizando da sua identificação básica, nome e idade, e ocupação. </li>
+<li> O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa. </li>
+<li> A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade. </li>
+<li> Nossa equipe encontra-se disponível para contato através do e-mail 180101617@aluno.unb.br. </li>
+</ul>
+
+<p style="text-indent: 20px; text-align: justify">
+
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: 
+<ul>
+<li> ( ) Dou meu consentimento para a sua realização. </li>
+<li> ( ) Não consinto com a sua realização. </li>
+<ul>
+
+</p>
 
 <p style="text-indent: 20px; text-align: center">
 Brasília, [data] 
 [assinatura do entrevistador] [assinatura do entrevistado]
-[nome do entrevistador] [nome do entrevistado]”
+[nome do entrevistador] [nome do entrevistado]
 </p>
 
 ## 8. Roteiro
@@ -77,57 +91,76 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 
 1 - Digite o seu nome completo: 
 
-2 - Selecione sua ocupação: ( ) Estudante  ( ) Professor  ( ) Pesquisador
+2 - Selecione sua ocupação: 
 
-3 - Qual a sua frequência de uso do Vjudge? ( ) Diariamente  ( ) Semanalmente  ( ) Mensalmente  ( ) Semestralmente  ( ) Anualmente  ( ) Raramente
+<ul style="list-style-type: none;">
+<li>( ) Estudante</li>
+<li>( ) Professor</li>
+<li>( ) Pesquisador</li>
+</ul>
+
+3 - Qual a sua frequência de uso do Vjudge? 
+
+<ul style="list-style-type: none;">
+<li>( ) Diariamente</li>
+<li>( ) Semanalmente</li>
+<li>( ) Mensalmente</li>
+<li>( ) Semestralmente</li>
+<li>( ) Anualmente</li>
+<li>( ) Raramente</li>
+</ul>
 
 4 - Quais dessas tarefas você acha que é possível realizar no Vjudge?
 
-( ) Resolver problemas de programação
-( ) Resolver questão
-( ) Acessar conta pessoal
-( ) Acessar com uma conta já criada
-( ) Efetuar Login
-( ) Acessar sem ter conta criada
-( ) Se cadastrar
-( ) Visualizar questão
-( ) Submeter resposta
-( ) Participar de torneios
-( ) Entrar no torneio
-( ) Acessar um torneio privado
-( ) Acessar um torneio privado
-( ) Acessar um torneio público
-( ) Visualizar status de questões submetidas
-( ) Visualizar situação das respostas
-( ) Encontrar submissões
-( ) Visualizar usuários do Virtual Judge
-( ) Visualizar usuário
-( ) Visualizar grupos do Virtual Judge
-( ) Visualizar grupo
-( ) Encontrar grupo
-( ) Visualizar Fórum do Virtual Judge
-( ) Visualizar fórum
-( ) Encontrar artigos
-( ) Sair da conta pessoal
-( ) Sair da conta
-( ) Fazer Logout
+<ul style="list-style-type: none;">
+<li> ( ) Resolver problemas de programação </li>
+<li> ( ) Resolver questão </li>
+<li> ( ) Acessar conta pessoal </li>
+<li> ( ) Acessar com uma conta já criada </li>
+<li> ( ) Efetuar Login </li>
+<li> ( ) Acessar sem ter conta criada </li>
+<li> ( ) Se cadastrar </li>
+<li> ( ) Visualizar questão </li>
+<li> ( ) Submeter resposta </li>
+<li> ( ) Participar de torneios </li>
+<li> ( ) Entrar no torneio </li>
+<li> ( ) Acessar um torneio privado </li>
+<li> ( ) Acessar um torneio privado </li>
+<li> ( ) Acessar um torneio público </li>
+<li> ( ) Visualizar status de questões submetidas </li>
+<li> ( ) Visualizar situação das respostas </li>
+<li> ( ) Encontrar submissões </li>
+<li> ( ) Visualizar usuários do Virtual Judge </li>
+<li> ( ) Visualizar usuário </li>
+<li> ( ) Visualizar grupos do Virtual Judge </li>
+<li> ( ) Visualizar grupo </li>
+<li> ( ) Encontrar grupo </li>
+<li> ( ) Visualizar Fórum do Virtual Judge </li>
+<li> ( ) Visualizar fórum </li>
+<li> ( ) Encontrar artigos </li>
+<li> ( ) Sair da conta pessoal </li>
+<li> ( ) Sair da conta </li>
+<li> ( ) Fazer Logout </li>
+</ul>
 
 5 - Você acha que é possível realizar alguma tarefa a mais do que as que foram ditas?
 
 6 - Quais dessas tarefas você realiza no Vjudge? 
 
-( ) Efetuar Login
-( ) Se cadastrar
-( ) Visualizar questão
-( ) Submeter resposta
-( ) Participar de um torneio
-( ) Acessar um torneio privado
-( ) Acessar um torneio público
-( ) Encontrar submissões
-( ) Encontrar usuário
-( ) Encontrar grupo
-( ) Encontrar artigos no fórum
-( ) Fazer Logout
+<ul style="list-style-type: none;">
+<li>( ) Efetuar Login</li>
+<li>( ) Se cadastrar</li>
+<li>( ) Visualizar questão</li>
+<li>( ) Submeter resposta</li>
+<li>( ) Participar de um torneio</li>
+<li>( ) Acessar um torneio privado</li>
+<li>( ) Acessar um torneio público</li>
+<li>( ) Encontrar submissões</li>
+<li>( ) Encontrar usuário</li>
+<li>( ) Encontrar grupo</li>
+<li>( ) Encontrar artigos no fórum</li>
+<li>( ) Fazer Logout</li>
+</ul>
 
 7 - Como você afirma realizar essa tarefa, o procedimento de passos abaixo está:
  
@@ -140,8 +173,12 @@ Se a pessoa realiza: <b>Efetuar Login</b>
 - Deslocar o mouse até o botão "Login";
 - Apertar com o botão esquerdo do mouse.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Se cadastrar</b>
 
@@ -158,8 +195,12 @@ Se a pessoa realiza: <b>Se cadastrar</b>
 - Deslocar o mouse até o botão "Register";
 - Apertar com o botão esquerdo do mouse.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Visualizar questão</b>
 
@@ -169,8 +210,12 @@ Se a pessoa realiza: <b>Visualizar questão</b>
 - Deslocar o mouse até o título ou número do problema a ser visualizado;
 - Apertar com botão esquerdo do mouse.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Submeter resposta</b>
 
@@ -181,8 +226,12 @@ Se a pessoa realiza: <b>Submeter resposta</b>
 - Apertar com botão esquerdo do mouse na opção "Yes" ou "No" em "Share".
 - Colocar código programado em "Solution".
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Participar de um torneio</b>
 
@@ -191,8 +240,12 @@ Se a pessoa realiza: <b>Participar de um torneio</b>
 - Deslocar o mouse até o título do torneio;
 - Apertar com o botão esquerdo do mouse.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Acessar um torneio privado</b>
 
@@ -200,8 +253,12 @@ Se a pessoa realiza: <b>Acessar um torneio privado</b>
 - Deslocar o mouse até o título dos problemas;
 - Apertar com o botão esquerdo do mouse para visualizá-las.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Acessar um torneio público</b>
 
@@ -209,8 +266,12 @@ Se a pessoa realiza: <b>Acessar um torneio público</b>
 - Deslocar o mouse até o título dos problemas;
 - Apertar com o botão esquerdo do mouse para visualizá-las.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Encontrar submissões</b>
 
@@ -220,8 +281,12 @@ Se a pessoa realiza: <b>Encontrar submissões</b>
 - Deslocar o mouse até "Result";
 - Apertar com o botão esquerdo do mouse.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Encontrar usuário</b>
 
@@ -231,8 +296,12 @@ Se a pessoa realiza: <b>Encontrar usuário</b>
 - Pressionar a tecla "Enter";
 - Apertar com o botão esquerdo do mouse no usuário encontrado.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Encontrar grupo</b>
 
@@ -244,8 +313,12 @@ Se a pessoa realiza: <b>Encontrar grupo</b>
 - Apertar com o botão esquerdo do mouse em "Search";
 - Apertar com o botão esquerdo do mouse no grupo encontrado.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: <b>Encontrar artigos no fórum</b>
 
@@ -257,20 +330,39 @@ Se a pessoa realiza: <b>Encontrar artigos no fórum</b>
 - Pressionar a tecla "Enter";
 - Apertar com o botão esquerdo do mouse no artigo encontrado.
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 Se a pessoa realiza: </b>Fazer Logout</b>
 
 - Deslocar o mouse até o topo da página;
 - Apertar com o botão esquerdo do mouse em "Logout";
 
-Para realizar essa tarefa, os passos acima são: ( ) Suficientes  ( ) Insuficientes
-Em caso de serem insuficientes, digite quais passos faltam: [	] 
+Para realizar essa tarefa, os passos acima são: 
+<ul style="list-style-type: none;">
+<li>( ) Suficientes</li>
+<li>( ) Insuficientes</li>
+</ul>
+Em caso de serem insuficientes, digite quais passos faltam: []
 
 8 - Avalie a nossa análise de tarefas realizadas pelos usuários do site Vjudge.
 
-( ) 1   ( ) 2   ( )  3   ( )  4   ( )  5   ( )  6   ( )  7   ( )  8   ( )  9   ( ) 10
+<ul style="list-style-type: none;">
+<li>( ) 1</li>
+<li>( ) 2</li>
+<li>( ) 3</li>
+<li>( ) 4</li>
+<li>( ) 5</li>
+<li>( ) 6</li>
+<li>( ) 7</li>
+<li>( ) 8</li>
+<li>( ) 9</li>
+<li>( ) 10</li>
+</ul>
 
 9 - Deixe alguma sugestão de melhoria à nossa análise de tarefas, caso você ache necessário.
 
