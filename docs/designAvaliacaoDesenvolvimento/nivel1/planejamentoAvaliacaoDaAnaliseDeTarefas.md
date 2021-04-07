@@ -50,7 +50,7 @@ Para a participação nesta avaliação, o participante, que é voluntário, dev
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-“Somos o grupo 6 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise quanto à abrangência e efetivação dos requisitos e interação com usuário e respectiva remodelagem do sistema interativo Vjudge, que é um site da comunidade destinado à resolução de problemas de programação. Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que irão usar o sistema pensam a respeito da análise de tarefas realizada por este grupo, e como imaginam que o novo sistema deveria apoiar o seu trabalho. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa: 
+Somos o grupo 6 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise quanto à abrangência e efetivação dos requisitos e interação com usuário e respectiva remodelagem do sistema interativo Vjudge, que é um site da comunidade destinado à resolução de problemas de programação. Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que irão usar o sistema pensam a respeito da análise de tarefas realizada por este grupo, e como imaginam que o novo sistema deveria apoiar o seu trabalho. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa: 
 </p>
 
 <ul>
