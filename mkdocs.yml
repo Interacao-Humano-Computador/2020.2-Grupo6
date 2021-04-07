@@ -28,6 +28,17 @@ nav:
     - Princípios Gerais de Projeto: analiseDeRequisitos/principiosGeraisDeProjeto.md
     - Metas de usabilidade: analiseDeRequisitos/metasDeUsabilidade.md
     - Guia de Estilo: analiseDeRequisitos/guiaDeEstilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Planejamento da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoDaAnaliseDeTarefas.md
+      - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards.md
+      - Planejamento da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoDoStoryboard.md
+    # - Nível 2:
+    #   - Protótipo de Baixa Fidelidade: designAvaliacaoDesenvolvimento/nivel2/prototipoBaixaFidelidade.md
+    #   - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/planejamentoAvaliacaoDoPrototipoDeBaixaFidelidade.md
+    # - Nível 3:
+    #   - Protótipo de Alta Fidelidade: designAvaliacaoDesenvolvimento/nivel3/prototipoAltaFidelidade.md
+    #   - Planejamento da Avaliação do Protótipo de Alta fidelidade: designAvaliacaoDesenvolvimento/nivel3/planejamentoAvaliacaoDoPrototipoDeAltaFidelidade.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md

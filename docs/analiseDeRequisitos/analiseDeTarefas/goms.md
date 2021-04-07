@@ -262,7 +262,7 @@ Tudo isso o faz uma ótima escolha para o projeto, pois estamos trabalhando sobr
 
             - <span style="color:red">OP 1.2:</span> Apertar com o botão esquerdo do mouse em &quot;Logout&quot;;
 
-## Referências
+## Referências bibliográficas
 
 > BARBOSA, Simone; SILVA, Bruno. &quot;Interação Humano-Computador&quot;. Elsevier Editora Ltda, 2010.
 

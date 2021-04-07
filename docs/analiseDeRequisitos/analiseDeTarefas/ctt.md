@@ -73,7 +73,7 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
     <figcaption>Figura 3 - CTT baseado em um usuário que não esteja logado (abra)</figcaption>
 </div>
 
-## Referência
+## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação.

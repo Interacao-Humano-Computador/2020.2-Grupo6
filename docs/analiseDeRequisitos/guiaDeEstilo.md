@@ -201,7 +201,7 @@ O protótipo de alta fidelidade contará com todas as telas abaixo, e o protóti
 Haverá sequências de diálogos para o usuário, no momento que este realizar alguma ação errada ou equivocada, como por exemplo, um usuário deslogado tentar executar algo que necessite de login para fazer. Outra situação na qual ocorrerá a sequência de diálogos, será no momento em que o usuário realizar alguma tarefa que esteja que necessite de confirmação, como por exemplo, ao enviar um solução para uma questão específica.
 </p>
 
-## Referência
+## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 

@@ -78,7 +78,7 @@ Os princípios citados no livro da Simone Barbosa são:
     - <p style="text-align: justify">Muitas das vezes, para lidar com erros, temos que refazer a tarefa ou sair do site e entrar de novo, não há um tratamento de erros presente no site, pelo menos durante nossos testes (análise exploratória). Não houve nenhuma forma provida pelo site que tente possibilitar alguma oportunidade de recuperação ou retomada de um caminho de interação produtivo.</p>
  
 
-## Referência
+## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 

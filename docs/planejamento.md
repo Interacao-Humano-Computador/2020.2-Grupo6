@@ -105,7 +105,7 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 |<img width="80px" height="80px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
 |<img width="80px" height="80px" src="../assets/icons/liveShare.jpg" alt="VSCode_icon">|LiveShare|Editor de código-fonte de uma maneira compartilhada em equipe|
 
-## Referências:
+## Referências bibliográficas:
 
 > SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.
 

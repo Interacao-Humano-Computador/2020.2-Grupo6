@@ -89,7 +89,7 @@ Levando em conta o perfil de usuário proposto anteriormente, o grupo levantou a
 | Tarefas: | Cozinha e lava na sua casa todos os dias, normalmente só acessa o computador para trabalho, e quando não, normalmente é para pesquisar sobre coisas que gosta. Ajuda sua amiga em sua confeitaria delivery, precisa sempre procurar saber ou visitar o seu rancho em construção. |
 | Expectativas: | Durante o seu uso na internet, espera não se deparar com esse tipo de site, pois não tem interesse e não tem conhecimento do que se trata, atrapalha. |
 
-## Referências
+## Referências bibliográficas
 
 > BARBOSA, Simone; SILVA, Bruno. &quot;Interação Humano-Computador&quot;. Elsevier Editora Ltda, 2010.
 

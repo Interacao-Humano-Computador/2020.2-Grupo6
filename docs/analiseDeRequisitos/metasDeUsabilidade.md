@@ -35,7 +35,7 @@ Nesse sentido, os autores dividem as metas de usabilidade nas seguintes:
 - Segurança: a aplicação não apresenta uma proteção para o usuário quanto a condições perigosas e situações indesejáveis.
 - <i>Learnability</i>: o site não é receptivo a novos usuários. Não possui alguma forma de tutorial e o usuário necessita realizar um esforço para aprender a utilizá-lo, o que pode demandar um tempo relativamente maior que em outros sites do gênero, a mais do que o usuário pode estar disposto. A localização das tarefas demanda aprendizagem e destoa dos padrões normalmente utilizados nos concorrentes.
 
-## Referências
+## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
