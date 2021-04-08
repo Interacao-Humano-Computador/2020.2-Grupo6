@@ -45,7 +45,7 @@ O ambiente para a realização da avaliação não estará ao cargo dos avaliado
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Porém, para facilitar a gravação da entrevista, iremos propor incialmente para os participantes o uso das ferremantas:
+Porém, para facilitar a gravação da entrevista, iremos propor inicialmente para os participantes o uso das ferremantas:
 </p>
 
 - Microsoft Teams
