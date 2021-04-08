@@ -44,6 +44,14 @@ Além disso, tais participantes devem ter afinidade com tecnologia (visto que é
 O ambiente para a realização da avaliação não estará ao cargo dos avaliadores, visto que tal avaliação só poderá ser realizada à distância, respeitando as normas de distanciamento social impostas pela Universidade. Dessa forma, para tal, os participantes utilizarão de seus próprios equipamentos e recursos.
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
+Porém, para facilitar a gravação da entrevista, iremos propor incialmente para os participantes o uso das ferremantas:
+</p>
+
+- Microsoft Teams
+- Jitsi
+- Google Hangouts
+
 ## 7. Termo de consentimento
 
 <p style="text-indent: 20px; text-align: justify">
@@ -63,20 +71,14 @@ Somos o grupo 6 da disciplina de Interação Humano Computador da Universidade d
 </ul>
 
 <p style="text-indent: 20px; text-align: justify">
-
-De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista: 
+De posse dessas informações, gostaríamos que você comunicasse em alto e bom som umas das alternativas abaixo: 
 <ul>
-<li> ( ) Dou meu consentimento para a sua realização. </li>
-<li> ( ) Não consinto com a sua realização. </li>
+<li> ( ) Eu, [nome do entrevistado] dou meu consentimento para a sua realização. </li>
+<li> ( ) Eu, [nome do entrevistado] não consinto com a sua realização. </li>
 <ul>
-
 </p>
 
-<p style="text-indent: 20px; text-align: center">
-Brasília, [data] 
-[assinatura do entrevistador] [assinatura do entrevistado]
-[nome do entrevistador] [nome do entrevistado]
-</p>
+
 
 ## 8. Roteiro
 
@@ -179,7 +181,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Se cadastrar</b>
 
@@ -201,7 +203,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Visualizar questão</b>
 
@@ -216,7 +218,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Submeter resposta</b>
 
@@ -232,7 +234,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Participar de um torneio</b>
 
@@ -246,7 +248,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Acessar um torneio privado</b>
 
@@ -259,7 +261,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Acessar um torneio público</b>
 
@@ -272,7 +274,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Encontrar submissões</b>
 
@@ -287,7 +289,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Encontrar usuário</b>
 
@@ -302,7 +304,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Encontrar grupo</b>
 
@@ -319,7 +321,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: <b>Encontrar artigos no fórum</b>
 
@@ -336,7 +338,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 Se a pessoa realiza: </b>Fazer Logout</b>
 
@@ -348,7 +350,7 @@ Para realizar essa tarefa, os passos acima são:
 <li>( ) Suficientes</li>
 <li>( ) Insuficientes</li>
 </ul>
-Em caso de serem insuficientes, digite quais passos faltam: []
+Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
 
 8 - Avalie a nossa análise de tarefas realizadas pelos usuários do site Vjudge.
 
