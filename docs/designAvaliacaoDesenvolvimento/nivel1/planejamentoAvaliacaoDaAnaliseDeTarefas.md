@@ -29,10 +29,11 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 Serão selecionados participantes voluntários que se enquadrem no perfil de usuário do sistema, colhido pelo grupo durante a fase de análise de requisitos. Esse perfil também está representado pela técnica de personas, pela qual é possível colher as características dos participantes que poderão ser elegidos:
 </p>
 
-Estudantes
-Professores
-Pesquisadores
-
+<ul>
+<li>Estudantes</li>
+<li>Professores</li>
+<li>Pesquisadores</li>
+</ul>
 <p style="text-indent: 20px; text-align: justify">
 Além disso, tais participantes devem ter afinidade com tecnologia (visto que é o público-alvo do site). Assim, esses são os principais fatores a serem considerado para a seleção de usuários, principalmente a ocupação, descrita pelos substantivos acima, e não levando em consideração outros fatores como, por exemplo, idade ou sexo.
 </p>
@@ -386,3 +387,4 @@ A partir da realização da entrevista conforme o roteiro antes descrito, o grup
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 07/04/2021 | Planejamento da avaliação de Análise de Tarefas produzido. | Ian e Guilherme |
+| 1.0.1 | 08/04/2021 | Correção de algumas tags HTML que estavam quebradas | Ítalo |
