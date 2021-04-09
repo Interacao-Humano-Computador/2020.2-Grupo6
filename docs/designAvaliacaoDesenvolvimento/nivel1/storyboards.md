@@ -1,7 +1,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O storyboard é um exemplo de prototipagem de baixa fidelidade que costuma ser usado em conjunto com cenários, conforme descrito no Capítulo 10. Um storyboard consiste em uma série de esboços que mostram como um usuário pode progredir em uma tarefa usando o produto em desenvolvimento. Pode ser uma série de esboços de tela ou uma série de cenas mostrando como um usuário pode executar uma tarefa usando um dispositivo interativo.
+O storyboard é um exemplo de prototipagem de baixa fidelidade que costuma ser usado em conjunto com cenários. Um storyboard consiste em uma série de esboços que mostram como um usuário pode progredir em uma tarefa usando o produto em desenvolvimento. Pode ser uma série de esboços de tela ou uma série de cenas mostrando como um usuário pode executar uma tarefa usando um dispositivo interativo.
 </p>
 
 ## 2. Objetivo
@@ -68,8 +68,6 @@ O storyboard abaixo relata um cenário em que uma pessoa conhece o Vjudge pela p
     <figcaption>Figura 3 - Situação de uma atividade de programação em que há a presença do Vjudge</figcaption>
     </center>
 </div>
-
-## 4. Conclusão
 
 ## Referências bibliográficas
 

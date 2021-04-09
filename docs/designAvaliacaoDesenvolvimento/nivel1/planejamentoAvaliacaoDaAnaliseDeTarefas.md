@@ -45,7 +45,7 @@ O ambiente para a realização da avaliação não estará ao cargo dos avaliado
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
-Porém, para facilitar a gravação da entrevista, iremos propor inicialmente para os participantes o uso das ferremantas:
+Porém, para facilitar a gravação da entrevista, iremos propor inicialmente para os participantes o uso das ferramentas:
 </p>
 
 - Microsoft Teams
@@ -77,7 +77,6 @@ De posse dessas informações, gostaríamos que você comunicasse em alto e bom 
 <li> ( ) Eu, [nome do entrevistado] não consinto com a sua realização. </li>
 <ul>
 </p>
-
 
 
 ## 8. Roteiro

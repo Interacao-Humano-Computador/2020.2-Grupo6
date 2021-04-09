@@ -23,4 +23,4 @@ Desenvolvemos a documentação da análise de requisitos site e gravamos a segun
 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
-|    04/03/21    | 1.0 |            Definição da reunião 2            |      Ítalo      |
+|    16/03/21    | 1.0 |            Definição da reunião 2            |      Ítalo      |
