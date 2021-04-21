@@ -58,6 +58,10 @@ De posse dessas informações, gostaríamos que você comunicasse em alto e bom 
 <ul>
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
+Para a acessar o documento do termo de consentimento, acesse este <a href='https://github.com/Interacao-Humano-Computador/2020.2-Vjudge/blob/master/docs/designAvaliacaoDesenvolvimento/nivel1/TermoDeConsentimento.pdf'>link</a>
+</p>
+
 ## 6. Avaliação
 
 ### 6.1 Avaliação dos Storyboards e Convidados

@@ -82,6 +82,9 @@ De posse dessas informações, gostaríamos que você comunicasse em alto e bom 
 <ul>
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
+Para a acessar o documento do termo de consentimento, acesse este <a href="https://github.com/Interacao-Humano-Computador/2020.2-Vjudge/blob/master/docs/designAvaliacaoDesenvolvimento/nivel1/TermoDeConsentimento.pdf" target="_blank">link</a>
+</p>
 
 ## 8. Roteiro
 
@@ -94,6 +97,12 @@ Levando em conta que a avaliação será realizada por meio do método de entrev
 <p style="text-indent: 20px; text-align: justify">
 Inicialmente, o avaliador irá se apresentar e realizar a recepção do participante. Dirá que esta entrevista durará em torno de vinte à trinta minutos. O entrevistador irá ler por completo o termo de consentimento e solicitará a responda do entrevistado. Caso a resposta seja positiva, o entrevistador solicitará que o entrevistado compartilhe a tela e iniciará a entrevista por meio do roteiro abaixo, deixando claro que em qualquer momento o entrevistado pode fazer perguntas e tirar suas dúvidas.
 </p>
+
+| Número | Pergunta | Possível Resposta |
+|:--:|:--:|:---|
+| 1 | Qual é o seu nome completo? | |
+| 2 | Observando os dois primeiros storyboards, você, como aluno, observa uma relação com a realidade? | <ul> <li>( )Estudante</li> <li>   </li>( )Professor<li> </li>( )Pesquisador</ul> |
+
 
 1 - Qual é o seu nome completo?
 
