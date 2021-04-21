@@ -59,11 +59,11 @@ O storyboard abaixo relata um cenário em que o professor cria um torneio ou uma
 ## 3.3. Storyboard 3
 
 <p style="text-indent: 20px; text-align: justify">
-O storyboard abaixo relata um cenário em que uma pessoa conhece o Vjudge pela primeira vez, está situação só tem o caso com a presença do Vjudge pois, relata o primeiro contanto entre o usuário e o sistema.
+O storyboard abaixo relata um cenário em que uma pessoa conhece o Vjudge pela primeira vez, esta situação só tem o caso com a presença do Vjudge pois, relata o primeiro contanto entre o usuário e o sistema.
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/storyboards/storyboard1SemSolucao.png" width="100%"></img>
+    <img src="../../../assets/storyboards/storyboard3.png" width="100%"></img>
     <center>
     <figcaption>Figura 3 - Situação de uma atividade de programação em que há a presença do Vjudge</figcaption>
     </center>

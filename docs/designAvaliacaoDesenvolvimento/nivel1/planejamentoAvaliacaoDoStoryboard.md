@@ -86,11 +86,11 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
 | 1 | Observando os dois primeiros storyboards, você, como aluno, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 1.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 2 | Observando o terceiro e quarto storyboard, você, como aluno, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 2.1 | Se a resposta à pergunta 2 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 3 | Observando os dois últimos storyboards, você, como aluno, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 3.1 | Se a resposta à pergunta 3 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 2.1 | Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 3 | Observando o último storyboard, você, como aluno, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 3.1 | Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 4 | Você realmente acha que o Virtual Judge pode ajudar o aluno nessa situação apresentada? | Pergunta discursiva |
 | 5 | Qual dos Storyboards você acha que mais condiz com a realidade do Virtual Judge? | Pergunta discursiva |
 | 6 | O que você pensa sobre a solução do Virtual Judge apresentada no Storyboard? Ela é eficaz? | Pergunta discursiva |
@@ -101,11 +101,11 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
 | 1 | Observando os dois primeiros storyboards, você, como professor, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 1.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 2 | Observando o terceiro e quarto storyboard, você, como professor, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 2.1 | Se a resposta à pergunta 2 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 3 | Observando os dois últimos storyboards, você, como professor, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 3.1 | Se a resposta à pergunta 3 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 2.1 | Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 3 | Observando o último storyboard, você, como professor, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 3.1 | Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 4 | Você realmente acha que o Virtual Judge pode ajudar o aluno nessa situação apresentada? | Pergunta discursiva |
 | 5 | Qual dos Storyboards você acha que mais condiz com a realidade do Virtual Judge? | Pergunta discursiva |
 | 6 | O que você pensa sobre a solução do Virtual Judge apresentada no Storyboard? Ela é eficaz? | Pergunta discursiva |
@@ -116,11 +116,11 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
 | 1 | Observando os dois primeiros storyboards, você, como pesquisador, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 1.1 | Se a resposta à pergunta 1 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 1.1 | Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 2 | Observando o terceiro e quarto storyboard, você, como pesquisador, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 2.1 | Se a resposta à pergunta 2 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
-| 3 | Observando os dois últimos storyboards, você, como pesquisador, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 3.1 | Se a resposta à pergunta 3 foi NÃO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 2.1 | Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
+| 3 | Observando o último storyboard, você, como pesquisador, observa uma relação com a realidade? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 3.1 | Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta? | Pergunta discursiva |
 | 4 | Você realmente acha que o Virtual Judge pode ajudar o aluno nessa situação apresentada? | Pergunta discursiva |
 | 5 | Qual dos Storyboards você acha que mais condiz com a realidade do Virtual Judge? | Pergunta discursiva |
 | 6 | O que você pensa sobre a solução do Virtual Judge apresentada no Storyboard? Ela é eficaz? | Pergunta discursiva |

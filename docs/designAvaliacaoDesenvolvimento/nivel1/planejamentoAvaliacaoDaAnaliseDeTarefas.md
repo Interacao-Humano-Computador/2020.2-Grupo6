@@ -100,60 +100,28 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 
 | Número | Pergunta | Possível Resposta |
 |:--:|:--:|:---|
-| 1 | Qual é o seu nome completo? | |
-| 2 | Observando os dois primeiros storyboards, você, como aluno, observa uma relação com a realidade? | <ul> <li>( )Estudante</li> <li>   </li>( )Professor<li> </li>( )Pesquisador</ul> |
+| 1 | Qual é o seu nome completo? | Discursiva |
+| 2 | Tendo em vista o perfil de usuário que criamos para o site, gostaríamos que você comunicasse qual é sua ocupação?  | <li>Estudante</li><li>Professor</li><li>Pesquisador</li> |
+| 2.1 | Qual é o seu grau de ensino? (Caso a pergunta 2 tenha sido respondida "Estudante") |Discursiva |
+| 2.1.1 | Qual é o seu curso e semestre? (Caso a pergunta 2.1 tenha sido respondida com superior incompleto) | Discursiva|
+| 2.2 | Você é professor de qual faculdade e qual disciplina ou disciplinas você ministra? (Caso a pergunta 2 tenha sido respondida com "Professor") |Discursiva |
+| 2.3 | Com que tipo de pesquisa você está relacionado? (Caso a pergunta 2 tenha sido respondida com "Pesquisador") | Discursiva|
+| 3 | Você já utilizou o Vjudge? | <li>Sim</li><li>Não</li> |
+| 3.1 | Qual a sua frequência de uso do Vjudge? (Caso a pergunta 3 tenha sido respondida com "Sim") | Discursiva |
+| | Agora, nós iremos pedir que você realize algumas tarefas, e gostariamos que relatasse cada movimento que você realiza na tela, por mais simples que seja. |  |
+| 4 | Se você quisesse acessar o site Vjudge, como você faria isso? | Demonstrativo|
+| 5 | Como o processo de cadastro é um tanto demorado, pois há muitas campos para serem preenchidos, gostaríamos que fosse até página de cadastro e analisasse se há algum campo que você ache desnecessário ou confuso. | Demonstrativo|
+| 6 | Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados: | Demonstrativo</br>Login: **Teste_IHC**</br>Senha: **senha@123**|
+| 7 | Se você quisesse acessar o seu perfil, como você faria isso | Demonstrativo |
+| 8 | Se você quisesse acessar a tela que mostra todos os problemas existentes no site, como você faria isso? | Demonstrativo|
+| 9 | Sendo o Vjudge um site que reúne problemas de outros juízes online, se você quisesse que fosse mostrado apenas os problema do juíz online HackerRank, como você faria isso? | Demonstrativo|
+| 10 | Na lista de problemas você pode ver que existe a coluna "Prob" e a coluna "Title" que contêm links que levam você para outra página, tendo isso em vista, fica claro a diferença entre a duas colunas? | Demonstrativo|
+| 11 | O Vjudge reúne problemas de outros juízes online, mas você pode submeter sua solução pelo próprio Vjudge, se você quisesse fazer isso, submeter a solução de um problema no Vjudge, em qual dos links você clicaria, no da coluna "Prob" ou no da coluna "Title"? | Demonstrativo|
+| 12 | Sabendo da diferença dos links, acesse a página do problema no Vjudge? | Demonstrativo|
+| 13 | Se você quisesse acessar o site do problema original, você conseguiria acessar pela página do problema no Vjudge? | Demonstrativo|
+| 14 | Você acha que esses que as duas colunas da página anterior são necessárias, ou você acharia melhor se o link que o leva para o site do problema original estivesse apenas dentro da página do problema no Vjudge? | Demonstrativo|
+| 15 | Os quatro pontões na parte superior-esquerda em relação a descrição do problema, então bem explicados, quer dizer, sem clicar neles, você pode me dizer o que cada um faz? | Demonstrativo|
 
-
-1 - Qual é o seu nome completo?
-
-2 - Tendo em vista o perfil de usuário que criamos para o site, gostaríamos que você comunicasse qual é sua ocupação? 
-
-<ul style="list-style-type: none;">
-<li>( ) Estudante</li>
-<li>( ) Professor</li>
-<li>( ) Pesquisador</li>
-</ul>
-
-2.1 - Qual é o seu grau de ensino? (Caso a pergunta 2 tenha sido respondida "Estudante")
-
-2.1.1 - Qual é o seu curso e semestre? (Caso a pergunta 2.1 tenha sido respondida com superior incompleto)
-
-2.2 - Você é professor de qual faculdade e qual disciplina ou disciplinas você ministra? (Caso a pergunta 2 tenha sido respondida com "Professor")
-
-2.3 - Com que tipo de pesquisa você está relacionado? (Caso a pergunta 2 tenha sido respondida com "Pesquisador")
-
-3 - Você já utilizou o Vjudge?
-
-3.1 - Qual a sua frequência de uso do Vjudge? (Caso a pergunta 3 tenha sido respondida com "Sim")
-
-- Agora, nós iremos pedir que você realize algumas tarefas, e gostariamos que relatasse cada movimento que você realiza na tela, por mais simples que seja.
-
-4 - Se você quisesse acessar o site Vjudge, como você faria isso?
-
-5 - Como o processo de cadastro é um tanto demorado, pois há muitas campos para serem preenchidos, gostaríamos que fosse até página de cadastro e analisasse se há algum campo que você ache desnecessário ou confuso.
-
-6 - Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados:
-
-- Login: Teste_IHC
-- Senha: senha@123
-
-7 - Se Se você quisesse acessar o seu perfil, como você faria isso
-
-8 - Se você quisesse acessar a tela que mostra todos os problemas existentes no site, como você faria isso?
-
-9 - Sendo o Vjudge um site que reúne problemas de outros juízes online, se você quisesse que fosse mostrado apenas os problema do juíz online HackerRank, como você faria isso?
-
-10 - Na lista de problemas você pode ver que existe a coluna "Prob" e a coluna "Title" que contêm links que levam você para outra página, tendo isso em vista, fica claro a diferença entre a duas colunas?
-
-11 - O Vjudge reúne problemas de outros juízes online, mas você pode submeter sua solução pelo próprio Vjudge, se você quisesse fazer isso, submeter a solução de um problema no Vjudge, em qual dos links você clicaria, no da coluna "Prob" ou no da coluna "Title"?
-
-12 - Sabendo da diferença dos links, acesse a página do problema no Vjudge?
-
-13 - Se você quisesse acessar o site do problema original, você conseguiria acessar pela página do problema no Vjudge?
-
-14 - Você acha que esses que as duas colunas da página anterior são necessárias, ou você acharia melhor se o link que o leva para o site do problema original estivesse apenas dentro da página do problema no Vjudge?
-
-15 - Os quatro pontões na parte superior-esquerda em relação a descrição do problema, então bem explicados, quer dizer, sem clicar neles, você pode me dizer o que cada um faz?
 
 <p style="text-indent: 20px; text-align: justify">
 Ao fim deste último tópico do roteiro (15), o entrevistador agradece a participação do entrevistado e se despede.
