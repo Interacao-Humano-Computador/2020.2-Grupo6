@@ -17,6 +17,10 @@ A preparação para avaliação é fundamental para a condução adequada de uma
 O escopo desta avaliação é analisar e levantar o nível de qualidade que o grupo realizou a Análise de Tarefas acerca do site Vjudge, se limitando a esse tópico pertencente à análise de requisitos da solução.
 </p>
 
+<p style="text-indent: 20px; text-align: justify">
+Nessa avaliação será analisado a tarefa principal do site Vjudge, que concluímos ao realizar a Análise de tarefas pelos métodos GOMS e Árvores de Tarefas Concorrentes, que é o processo de acessar a página de problemas e encontrar um problema espécifico, passos esses que podem ser feitos tanto deslogado como logado em uma conta, nesse sentido avaliaremos também o processo de realizar um login e as aspectos principais relacionados ao resolver um problema.
+</p>
+
 ## 4. Método selecionado
 
 <p style="text-indent: 20px; text-align: justify">
@@ -73,8 +77,8 @@ Somos o grupo 6 da disciplina de Interação Humano Computador da Universidade d
 <p style="text-indent: 20px; text-align: justify">
 De posse dessas informações, gostaríamos que você comunicasse em alto e bom som umas das alternativas abaixo: 
 <ul>
-<li> ( ) Eu, [nome do entrevistado] dou meu consentimento para a sua realização. </li>
-<li> ( ) Eu, [nome do entrevistado] não consinto com a sua realização. </li>
+<li> Eu, [nome do entrevistado] dou meu consentimento para a sua realização. </li>
+<li> Eu, [nome do entrevistado] não consinto com a sua realização. </li>
 <ul>
 </p>
 
@@ -88,12 +92,12 @@ Levando em conta que a avaliação será realizada por meio do método de entrev
 ### 8.1. Roteiro para a entrevista
 
 <p style="text-indent: 20px; text-align: justify">
-Inicialmente, o avaliador irá se apresentar e realizar a recepção do participante. Dirá que esta entrevista durará no máximo dez minutos. Pedirá que o entrevistado leia o termo de consentimento e assine. Caso a assinatura seja positiva, iniciará a entrevista por meio do roteiro abaixo.
+Inicialmente, o avaliador irá se apresentar e realizar a recepção do participante. Dirá que esta entrevista durará em torno de vinte à trinta minutos. O entrevistador irá ler por completo o termo de consentimento e solicitará a responda do entrevistado. Caso a resposta seja positiva, o entrevistador solicitará que o entrevistado compartilhe a tela e iniciará a entrevista por meio do roteiro abaixo, deixando claro que em qualquer momento o entrevistado pode fazer perguntas e tirar suas dúvidas.
 </p>
 
-1 - Digite o seu nome completo: 
+1 - Qual é o seu nome completo?
 
-2 - Selecione sua ocupação: 
+2 - Tendo em vista o perfil de usuário que criamos para o site, gostaríamos que você comunicasse qual é sua ocupação? 
 
 <ul style="list-style-type: none;">
 <li>( ) Estudante</li>
@@ -101,275 +105,49 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 <li>( ) Pesquisador</li>
 </ul>
 
-3 - Qual a sua frequência de uso do Vjudge? 
+2.1 - Qual é o seu grau de ensino? (Caso a pergunta 2 tenha sido respondida "Estudante")
 
-<ul style="list-style-type: none;">
-<li>( ) Diariamente</li>
-<li>( ) Semanalmente</li>
-<li>( ) Mensalmente</li>
-<li>( ) Semestralmente</li>
-<li>( ) Anualmente</li>
-<li>( ) Raramente</li>
-</ul>
+2.1.1 - Qual é o seu curso e semestre? (Caso a pergunta 2.1 tenha sido respondida com superior incompleto)
 
-4 - Quais dessas tarefas você acha que é possível realizar no Vjudge?
+2.2 - Você é professor de qual faculdade e qual disciplina ou disciplinas você ministra? (Caso a pergunta 2 tenha sido respondida com "Professor")
 
-<ul style="list-style-type: none;">
-<li> ( ) Resolver problemas de programação </li>
-<li> ( ) Resolver questão </li>
-<li> ( ) Acessar conta pessoal </li>
-<li> ( ) Acessar com uma conta já criada </li>
-<li> ( ) Efetuar Login </li>
-<li> ( ) Acessar sem ter conta criada </li>
-<li> ( ) Se cadastrar </li>
-<li> ( ) Visualizar questão </li>
-<li> ( ) Submeter resposta </li>
-<li> ( ) Participar de torneios </li>
-<li> ( ) Entrar no torneio </li>
-<li> ( ) Acessar um torneio privado </li>
-<li> ( ) Acessar um torneio privado </li>
-<li> ( ) Acessar um torneio público </li>
-<li> ( ) Visualizar status de questões submetidas </li>
-<li> ( ) Visualizar situação das respostas </li>
-<li> ( ) Encontrar submissões </li>
-<li> ( ) Visualizar usuários do Virtual Judge </li>
-<li> ( ) Visualizar usuário </li>
-<li> ( ) Visualizar grupos do Virtual Judge </li>
-<li> ( ) Visualizar grupo </li>
-<li> ( ) Encontrar grupo </li>
-<li> ( ) Visualizar Fórum do Virtual Judge </li>
-<li> ( ) Visualizar fórum </li>
-<li> ( ) Encontrar artigos </li>
-<li> ( ) Sair da conta pessoal </li>
-<li> ( ) Sair da conta </li>
-<li> ( ) Fazer Logout </li>
-</ul>
+2.3 - Com que tipo de pesquisa você está relacionado? (Caso a pergunta 2 tenha sido respondida com "Pesquisador")
 
-5 - Você acha que é possível realizar alguma tarefa a mais do que as que foram ditas?
+3 - Você já utilizou o Vjudge?
 
-6 - Quais dessas tarefas você realiza no Vjudge? 
+3.1 - Qual a sua frequência de uso do Vjudge? (Caso a pergunta 3 tenha sido respondida com "Sim")
 
-<ul style="list-style-type: none;">
-<li>( ) Efetuar Login</li>
-<li>( ) Se cadastrar</li>
-<li>( ) Visualizar questão</li>
-<li>( ) Submeter resposta</li>
-<li>( ) Participar de um torneio</li>
-<li>( ) Acessar um torneio privado</li>
-<li>( ) Acessar um torneio público</li>
-<li>( ) Encontrar submissões</li>
-<li>( ) Encontrar usuário</li>
-<li>( ) Encontrar grupo</li>
-<li>( ) Encontrar artigos no fórum</li>
-<li>( ) Fazer Logout</li>
-</ul>
+- Agora, nós iremos pedir que você realize algumas tarefas, e gostariamos que relatasse cada movimento que você realiza na tela, por mais simples que seja.
 
-7 - Como você afirma realizar essa tarefa, o procedimento de passos abaixo está:
- 
-Se a pessoa realiza: <b>Efetuar Login</b>
+4 - Se você quisesse acessar o site Vjudge, como você faria isso?
 
-- Deslocar o mouse até o topo direito da página;
-- Apertar com botão esquerdo do mouse em "Login";
-- Preencher o campo de "Usuário";
-- Preencher o campo de "Senha";
-- Deslocar o mouse até o botão "Login";
-- Apertar com o botão esquerdo do mouse.
+5 - Como o processo de cadastro é um tanto demorado, pois há muitas campos para serem preenchidos, gostaríamos que fosse até página de cadastro e analisasse se há algum campo que você ache desnecessário ou confuso.
 
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
+6 - Se você quisesse realizar o login no site, como você faria isso? Nesse campo gostaríamos que fosse entrasse com os dados:
 
-Se a pessoa realiza: <b>Se cadastrar</b>
+- Login: Teste_IHC
+- Senha: senha@123
 
-- Deslocar o mouse até o topo direito da página;
-- Apertar com botão esquerdo do mouse em "Register";
-- Preencher o campo de "Usuário";
-- Preencher o campo de "Senha";
-- Preencher o campo para confirmar "Senha";
-- Preencher o campo de "Apelido";
-- Preencher o campo de "Escola/Universidade";
-- Preencher o campo de "QQ";
-- Preencher o campo de "E-mail";
-- Preencher o campo de "Captcha";
-- Deslocar o mouse até o botão "Register";
-- Apertar com o botão esquerdo do mouse.
+7 - Se Se você quisesse acessar o seu perfil, como você faria isso
 
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
+8 - Se você quisesse acessar a tela que mostra todos os problemas existentes no site, como você faria isso?
 
-Se a pessoa realiza: <b>Visualizar questão</b>
+9 - Sendo o Vjudge um site que reúne problemas de outros juízes online, se você quisesse que fosse mostrado apenas os problema do juíz online HackerRank, como você faria isso?
 
-- Deslocar o mouse até o topo da página;
-- Apertar com botão esquerdo do mouse em "Problems";
-- Selecionar um juízo específico (ou todos) em "OJ";
-- Deslocar o mouse até o título ou número do problema a ser visualizado;
-- Apertar com botão esquerdo do mouse.
+10 - Na lista de problemas você pode ver que existe a coluna "Prob" e a coluna "Title" que contêm links que levam você para outra página, tendo isso em vista, fica claro a diferença entre a duas colunas?
 
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
+11 - O Vjudge reúne problemas de outros juízes online, mas você pode submeter sua solução pelo próprio Vjudge, se você quisesse fazer isso, submeter a solução de um problema no Vjudge, em qual dos links você clicaria, no da coluna "Prob" ou no da coluna "Title"?
 
-Se a pessoa realiza: <b>Submeter resposta</b>
+12 - Sabendo da diferença dos links, acesse a página do problema no Vjudge?
 
-- Deslocar o mouse até o topo esquerdo da página;
-- Apertar com botão esquerdo do mouse em "SUBMIT";
-- Deslocar o mouse até o botão "Select Language".
-- Apertar com botão esquerdo do mouse na linguagem de programação quista;
-- Apertar com botão esquerdo do mouse na opção "Yes" ou "No" em "Share".
-- Colocar código programado em "Solution".
+13 - Se você quisesse acessar o site do problema original, você conseguiria acessar pela página do problema no Vjudge?
 
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
+14 - Você acha que esses que as duas colunas da página anterior são necessárias, ou você acharia melhor se o link que o leva para o site do problema original estivesse apenas dentro da página do problema no Vjudge?
 
-Se a pessoa realiza: <b>Participar de um torneio</b>
-
-- Deslocar o mouse até o botão "Contest";
-- Apertar com o botão esquerdo do mouse;
-- Deslocar o mouse até o título do torneio;
-- Apertar com o botão esquerdo do mouse.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: <b>Acessar um torneio privado</b>
-
-- Colocar "Senha" do torneio privado para visualizar e submeter questões.
-- Deslocar o mouse até o título dos problemas;
-- Apertar com o botão esquerdo do mouse para visualizá-las.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: <b>Acessar um torneio público</b>
-
-- Colocar "Senha" do torneio privado para visualizar e submeter questões.
-- Deslocar o mouse até o título dos problemas;
-- Apertar com o botão esquerdo do mouse para visualizá-las.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: <b>Encontrar submissões</b>
-
-- Deslocar o mouse até o topo da página;
-- Apertar com o botão esquerdo do mouse em "Status";
-- Digitar o nome do seu "Usuário" na aba "Username";
-- Deslocar o mouse até "Result";
-- Apertar com o botão esquerdo do mouse.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: <b>Encontrar usuário</b>
-
-- Deslocar o mouse até o topo da página;
-- Apertar com o botão esquerdo do mouse em "User";
-- Digitar o nome do "Usuário" procurado na aba "Username" ou o "Apelido" na aba "Nickname";
-- Pressionar a tecla "Enter";
-- Apertar com o botão esquerdo do mouse no usuário encontrado.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: <b>Encontrar grupo</b>
-
-- Deslocar o mouse até o topo da página;
-- Apertar com o botão esquerdo do mouse em "Group";
-- Deslocar o mouse até a aba "Explore";
-- Apertar com o botão esquerdo do mouse;
-- Digitar o nome do grupo procurado na aba "Search by group name";
-- Apertar com o botão esquerdo do mouse em "Search";
-- Apertar com o botão esquerdo do mouse no grupo encontrado.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: <b>Encontrar artigos no fórum</b>
-
-- Deslocar o mouse até o topo da página;
-- Apertar com o botão esquerdo do mouse em "Fórum";
-- Deslocar o mouse até a aba "Title";
-- Apertar com o botão esquerdo do mouse;
-- Digitar o nome do artigo procurado;
-- Pressionar a tecla "Enter";
-- Apertar com o botão esquerdo do mouse no artigo encontrado.
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-Se a pessoa realiza: </b>Fazer Logout</b>
-
-- Deslocar o mouse até o topo da página;
-- Apertar com o botão esquerdo do mouse em "Logout";
-
-Para realizar essa tarefa, os passos acima são: 
-<ul style="list-style-type: none;">
-<li>( ) Suficientes</li>
-<li>( ) Insuficientes</li>
-</ul>
-Em caso de serem insuficientes, digite quais passos faltam: [resposta aqui]
-
-8 - Avalie a nossa análise de tarefas realizadas pelos usuários do site Vjudge.
-
-<ul style="list-style-type: none;">
-<li>( ) 1</li>
-<li>( ) 2</li>
-<li>( ) 3</li>
-<li>( ) 4</li>
-<li>( ) 5</li>
-<li>( ) 6</li>
-<li>( ) 7</li>
-<li>( ) 8</li>
-<li>( ) 9</li>
-<li>( ) 10</li>
-</ul>
-
-9 - Deixe alguma sugestão de melhoria à nossa análise de tarefas, caso você ache necessário.
+15 - Os quatro pontões na parte superior-esquerda em relação a descrição do problema, então bem explicados, quer dizer, sem clicar neles, você pode me dizer o que cada um faz?
 
 <p style="text-indent: 20px; text-align: justify">
-Ao fim deste último tópico do roteiro (7), o entrevistador agradece a participação do entrevistado e se despede.
+Ao fim deste último tópico do roteiro (15), o entrevistador agradece a participação do entrevistado e se despede.
 </p>
 
 ## 9. Relato dos resultados
@@ -377,7 +155,6 @@ Ao fim deste último tópico do roteiro (7), o entrevistador agradece a particip
 <p style="text-indent: 20px; text-align: justify">
 A partir da realização da entrevista conforme o roteiro antes descrito, o grupo realizará uma análise dos resultados extraídos e esses serão documentados, com um tópico intitulado como “Avaliação da Análise de Tarefas”, a ser anexado nesta documentação. A partir desse relato, o grupo levantará os pontos que necessitam de melhoria quanto ao desenvolvimento da análise de tarefas, e posteriormente, realizará uma atualização na documentação dessa, como uma versão 2.0.
 </p>
-
 
 ## Referências bibliográficas
 
