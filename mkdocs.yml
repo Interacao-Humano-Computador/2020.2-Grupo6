@@ -31,11 +31,14 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
       - Planejamento da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoDaAnaliseDeTarefas.md
+      # - Relato de resultados da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/relatoDeResultadosDaAnaliseDeTarefas.md
       - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards.md
       - Planejamento da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoDoStoryboard.md
+      # - Relato de resultados da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/relatoDeResultadosDoStoryboards.md
     # - Nível 2:
-    #   - Protótipo de Baixa Fidelidade: designAvaliacaoDesenvolvimento/nivel2/prototipoBaixaFidelidade.md
     #   - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/planejamentoAvaliacaoDoPrototipoDeBaixaFidelidade.md
+    #   - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/relatoDeResultadosDoPrototipoDeBaixaFidelidade.md
+    #   - Protótipo de Baixa Fidelidade: designAvaliacaoDesenvolvimento/nivel2/prototipoBaixaFidelidade.md
     # - Nível 3:
     #   - Protótipo de Alta Fidelidade: designAvaliacaoDesenvolvimento/nivel3/prototipoAltaFidelidade.md
     #   - Planejamento da Avaliação do Protótipo de Alta fidelidade: designAvaliacaoDesenvolvimento/nivel3/planejamentoAvaliacaoDoPrototipoDeAltaFidelidade.md
