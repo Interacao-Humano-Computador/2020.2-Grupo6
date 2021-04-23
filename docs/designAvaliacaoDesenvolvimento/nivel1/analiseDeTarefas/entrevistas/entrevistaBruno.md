@@ -1,7 +1,7 @@
 ## Entrevista - Bruno Ribas (Professor)
 
 <p style="text-indent: 20px; text-align: justify">
-O entrevistado é o <b>Bruno César Ribas</b>, Professor Doutor do curso de Engenharia de Software, da Universidade de Brasília. A entrevista foi realizada pela plataforma Microsoft Teams e levou cerca de 14 minutos, seguindo o roteiro estabelecido no planejamento.
+O entrevistado é o <b>Bruno César Ribas</b>, Professor Doutor do curso de Engenharia de Software, da Universidade de Brasília. A entrevista foi realizada pela plataforma Jitsi e levou cerca de 14 minutos, seguindo o roteiro estabelecido no planejamento.
 </p>
 
 <div align="center">

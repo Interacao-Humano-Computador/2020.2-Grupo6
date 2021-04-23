@@ -145,7 +145,7 @@ A partir do relato dos resultados da avaliação, o grupo pôde perceber que o p
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
-> Nielsen (2000)
+> Nielsen, Jakob (2000). Why You Only Need to Test with 5 Users. Disponível em: <https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/>. Acesso em: 20/04/2021
 
 ## Versionamento
 
