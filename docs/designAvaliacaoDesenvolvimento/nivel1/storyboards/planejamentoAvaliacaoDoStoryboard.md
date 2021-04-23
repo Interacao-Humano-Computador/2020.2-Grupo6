@@ -1,7 +1,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify"> 
-Storyboards são um modo de prototipação de baixa fidelidade, surgindo pela necessidade de demonstrar ideias de uma maneira fácil de ser visualizada pelo cliente, sendo barata e rapida de ser desenvolvida e aprimorada.
+Storyboards são um modo de prototipagem de baixa fidelidade, surgindo pela necessidade de demonstrar ideias de uma maneira fácil de ser visualizada pelo cliente, sendo barata e rápida de ser desenvolvida e aprimorada.
 Para isso é necessário que apos a elaboração dos storyboards seja realizada avaliações e validações junto com o cliente e usuário do sistema, assim verificando o aliamento e tomada de decisões de designer.
 </p>
 
@@ -9,13 +9,13 @@ Para isso é necessário que apos a elaboração dos storyboards seja realizada 
 
 <p style="text-indent: 20px; text-align: justify"> 
 O presente documento tem como objetivo apresentar de forma detalhada como será realizada as avaliações dos storyboards desenvolvidos para o nosso projeto.
-Devemos tambem deixar claro para os avaliadores sobre a metodologia e os processos envolvidos em uma avaliação para torna-la melhor e mais congruente com os diversos usuários e demais interessados.
+Devemos também deixar claro para os avaliadores sobre a metodologia e os processos envolvidos em uma avaliação para torna-la melhor e mais congruente com os diversos usuários e demais interessados.
 </p>
 
 ## 3. Método selecionado
 
 <p style="text-indent: 20px; text-align: justify"> 
-Analizando os storyboards desenvolvidos por nossa equipe, foi realizado uma instrospecção conjunta para identificar qual seria o melhor método de avaliação para abranger os casos em que queriamos avaliar. Sendo assim, decidimos por realizar avaliações formativas focadas em entrevistas, pois tal método permite aos avaliadores compreender e sobre as necessidades, vontades e expectativas dos usuários, alem de poder confirmar em que grau de satisfação a solução apresentada atende as necessidades dos usuários relacionados com o sistema. Esperamos assim poder identificar problemas que possam prejudicar a qualidade de uso e corrigi-los quando o custo de correção ainda é baixo.
+Analisando os storyboards desenvolvidos por nossa equipe, foi realizado uma introspecção conjunta para identificar qual seria o melhor método de avaliação para abranger os casos em que queríamos avaliar. Sendo assim, decidimos por realizar avaliações formativas focadas em entrevistas, pois tal método permite aos avaliadores compreender e sobre as necessidades, vontades e expectativas dos usuários, alem de poder confirmar em que grau de satisfação a solução apresentada atende as necessidades dos usuários relacionados com o sistema. Esperamos assim poder identificar problemas que possam prejudicar a qualidade de uso e corrigi-los quando o custo de correção ainda é baixo.
 </p>
 
 ## 4. Ambiente de avaliação

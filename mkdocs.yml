@@ -30,14 +30,26 @@ nav:
     - Guia de Estilo: analiseDeRequisitos/guiaDeEstilo.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-      - Planejamento da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoDaAnaliseDeTarefas.md
-      # - Relato de resultados da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/relatoDeResultadosDaAnaliseDeTarefas.md
-      - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards.md
-      - Planejamento da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/planejamentoAvaliacaoDoStoryboard.md
-      # - Relato de resultados da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/relatoDeResultadosDoStoryboards.md
-    # - Nível 2:
-    #   - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/planejamentoAvaliacaoDoPrototipoDeBaixaFidelidade.md
-    #   - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/relatoDeResultadosDoPrototipoDeBaixaFidelidade.md
+      - Análise de Tarefas:
+        - Planejamento da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/analiseDeTarefas/planejamentoAvaliacaoDaAnaliseDeTarefas.md
+        - Relato de resultados da Avaliação da Análise de tarefas: designAvaliacaoDesenvolvimento/nivel1/analiseDeTarefas/relatoDeResultadosDaAnaliseDeTarefas.md
+        - Entrevistas:
+          - João (Aluno): designAvaliacaoDesenvolvimento/nivel1/analiseDeTarefas/entrevistas/entrevistaJoao.md
+          - Álvaro (Aluno): designAvaliacaoDesenvolvimento/nivel1/analiseDeTarefas/entrevistas/entrevistaAlvaro.md
+          - Bruno Ribas (Professor): designAvaliacaoDesenvolvimento/nivel1/analiseDeTarefas/entrevistas/entrevistaBruno.md
+          - John Lenon (Professor): designAvaliacaoDesenvolvimento/nivel1/analiseDeTarefas/entrevistas/entrevistaJohn.md
+      - Storyboards:
+        - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/storyboards.md
+        - Planejamento da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard.md
+        - Relato de resultados da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/relatoDeResultadosDoStoryboards.md
+        - Entrevistas:
+          - João (Aluno): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaJoao.md
+          - Álvaro (Aluno): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaAlvaro.md
+          - Bruno Ribas (Professor): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaBruno.md
+          - John Lenon (Professor): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaJohn.md
+    - Nível 2:
+      - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/planejamentoAvaliacaoDoPrototipoDeBaixaFidelidade.md
+    #   - Relato de resultado da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/relatoDeResultadosDoPrototipoDeBaixaFidelidade.md
     #   - Protótipo de Baixa Fidelidade: designAvaliacaoDesenvolvimento/nivel2/prototipoBaixaFidelidade.md
     # - Nível 3:
     #   - Protótipo de Alta Fidelidade: designAvaliacaoDesenvolvimento/nivel3/prototipoAltaFidelidade.md
@@ -52,3 +64,4 @@ nav:
       - Reunião 2: atas/atas2.md
       - Reunião 3: atas/atas3.md
       - Reunião 4: atas/atas4.md
+      - Reunião 5: atas/atas5.md

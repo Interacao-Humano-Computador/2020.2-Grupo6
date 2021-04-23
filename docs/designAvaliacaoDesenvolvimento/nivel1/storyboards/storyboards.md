@@ -23,14 +23,14 @@ O storyboard abaixo relata um cenário em que o professor passa um exercício de
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/storyboards/storyboard1SemSolucao.png" width="100%"></img>
+    <img src="../../../../assets/storyboards/storyboard1SemSolucao.png" width="100%"></img>
     <center>
     <figcaption>Figura 1.1 - Situação de uma atividade de programação em que não há a presença do Vjudge</figcaption>
     </center>
 </div>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/storyboards/storyboard1ComSolucao.png" width="100%"></img>
+    <img src="../../../../assets/storyboards/storyboard1ComSolucao.png" width="100%"></img>
     <center>
     <figcaption>Figura 1.2 - Situação de uma atividade de programação em que há a presença do Vjudge</figcaption>
     </center>
@@ -39,18 +39,18 @@ O storyboard abaixo relata um cenário em que o professor passa um exercício de
 ## 3.2. Storyboard 2
 
 <p style="text-indent: 20px; text-align: justify">
-O storyboard abaixo relata um cenário em que o professor cria um torneio ou uma compretição para dar um ponto extra ao vencedor.
+O storyboard abaixo relata um cenário em que o professor cria um torneio ou uma competição para dar um ponto extra ao vencedor.
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/storyboards/storyboard2SemSolucao.png" width="100%"></img>
+    <img src="../../../../assets/storyboards/storyboard2SemSolucao.png" width="100%"></img>
     <center>
     <figcaption>Figura 2.1 - Situação de uma atividade de programação em que não há a presença do Vjudge</figcaption>
     </center>
 </div>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/storyboards/storyboard2ComSolucao.png" width="100%"></img>
+    <img src="../../../../assets/storyboards/storyboard2ComSolucao.png" width="100%"></img>
     <center>
     <figcaption>Figura 2.2 - Situação de uma atividade de programação em que há a presença do Vjudge</figcaption>
     </center>
@@ -63,7 +63,7 @@ O storyboard abaixo relata um cenário em que uma pessoa conhece o Vjudge pela p
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-    <img src="../../../assets/storyboards/storyboard3.png" width="100%"></img>
+    <img src="../../../../assets/storyboards/storyboard3.png" width="100%"></img>
     <center>
     <figcaption>Figura 3 - Situação de uma atividade de programação em que há a presença do Vjudge</figcaption>
     </center>
