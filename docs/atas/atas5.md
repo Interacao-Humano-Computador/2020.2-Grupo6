@@ -8,7 +8,7 @@ Desenvolvemos a documentação de planejamento e avaliação da Análise de Tare
 
 |    Integrante    |      Ação      |
 | :--------: | :-------------: |
-| Ian e Guilherme | Fizeram as entrevistas e o relato dos resultados sabre a avaliação da Análise de Tarefas |
+| Ian e Guilherme | Fizeram as entrevistas e o relato dos resultados sobre a avaliação da Análise de Tarefas |
 | Gabriel, Ítalo e Caio | Fizeram as entrevistas e o relato dos resultados sabre a avaliação dos Storyboards |
 
 </center>

@@ -48,8 +48,6 @@ As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da p�
 </p>
 - Entrevista com o aluno Álvaro: [link](entrevistas/entrevistaAlvaro.md)
 - Entrevista com o aluno João Pedro: [link](entrevistas/entrevistaJoao.md)
-- Entrevista com o professor Bruno Ribas: [link](entrevistas/entrevistaBruno.md)
-- Entrevista com o professor John Lenon: [link](entrevistas/entrevistaJohn.md)
 
 ## 4. Relato dos resultados
 

@@ -19,6 +19,9 @@ Faremos a divisão das atividades do método de prototipagem em papel na seguint
 | Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos sugerir correções |
 | Relato dos resultados | Relatar os problemas encontrados e sugestões de correção |
 
+<center>
+<figcaption>Tabela 1: Atividades do método de avaliação heurística, retiradas do livro Interação Humano-Computador e Experiência do usuário, da Simone Barbosa, página 225.</figcaption>
+</center>
 
 ### 3. Termo de consentimento
 
@@ -79,25 +82,13 @@ O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avali
 Esses são os protótipos em papel que definimos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Virtual Judge.
 </p>
 
-<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="600px" src="../../../assets/prototipoBaixaFidelidade/prototipoBaixaFidelidade1.jpeg">
-  <figcaption>Figura 1 - Tela Home.</figcaption>
-</div>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWGcb7bfvjlNiaiNLratQ1m%2FPrototipoDePapel%3Fkind%3D%26node-id%3D1%253A5%26page-id%3D0%253A1%26scaling%3Dscale-down" allowfullscreen></iframe>
 
-<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="600px" src="../../../assets/prototipoBaixaFidelidade/prototipoBaixaFidelidade2.jpg">
-  <figcaption>Figura 2 - Tela Login.</figcaption>
-</div>
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="600px" src="../../../assets/prototipoBaixaFidelidade/prototipoBaixaFidelidade3.jpg">
-  <figcaption>Figura 3 - Tela Cadastro.</figcaption>
-</div>
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
-  <img width="600px" src="../../../assets/prototipoBaixaFidelidade/prototipoBaixaFidelidade4.jpg">
-  <figcaption>Figura 4 - Tela Problemas.</figcaption>
-</div>
+<center>
+<figcaption>
+    Para acessar o protótipo acima, acesse este <a href='https://www.figma.com/proto/WGcb7bfvjlNiaiNLratQ1m/PrototipoDePapel?node-id=1%3A3&scaling=contain&page-id=0%3A1' target='_blank'>link</a>
+</figcaption>
+</center>
 
 ### 5. Coleta de Dados & Interpretação
 <p style="text-indent: 20px; text-align: justify">
@@ -111,7 +102,7 @@ O objetivo nessa fase é tratar a coleta de dados a partir da experiência do pa
 
 | Número | Pergunta | Resposta |
 |:--:|:---|:----|
-| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente familiarizado e "5", extremamente desabituado? | 1 - Extremamente familiarizado<br/>2 - Familiarizado<br/>3 - Neutro<br/>4 - Desabituado<br/>5 - Extremamente desabituado<br/> |
+| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
 <p style="text-indent: 20px; text-align: justify">
 Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o participante seja convidado a responder as seguintes perguntas, na medida que se sentir à vontade a fazê-lo:
@@ -120,7 +111,7 @@ Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o
 | Número | Pergunta | Resposta |
 |:--:|:---|:---|
 | 1 | Você conseguiu efetuar todas as atividades propostas por meio do que foi feito? | <ul> <li> SIM</li> <li>NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-| 2 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>1 - Extremamente trivial<li>2 - Trivial<li>3 - Neutro<li>4 - Complicado<li>5 - Extremamente complicado </ul> |
+| 2 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente complicado e "5", extremamente trivial? | <ul> <li>1 - Extremamente complicado<li>2 - Complicado<li>3 - Neutro<li>4 - Trivial<li>5 - Extremamente trivial</ul> |
 | 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
 | 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
 
@@ -149,3 +140,4 @@ Por último, trataremos de relatar tudo o que tivemos por resultados a todos os 
 |--|--|--|--|
 | 1.0 | 22/04/2021 | Produção do planejamento do protótipo de papel. | Gabriel |
 | 1.1 | 27/04/2021 | Correção da posição dos tópicos feitos. | Gabriel |
+| 2.0 | 29/04/2021 | Reformulação do Protótipo de Papel | Gabriel e Ian |

@@ -48,18 +48,24 @@ nav:
           - Bruno Ribas (Professor): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaBruno.md
           - John Lenon (Professor): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaJohn.md
     - Nível 2:
-      - Planejamento da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/planejamentoAvaliacaoDoPrototipoDeBaixaFidelidade.md
-    #   - Relato de resultado da Avaliação do Protótipo de Baixa fidelidade: designAvaliacaoDesenvolvimento/nivel2/relatoDeResultadosDoPrototipoDeBaixaFidelidade.md
+      - Protótipo de Papel:
+        - Planejamento da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/planejamentoAvaliacaoDoPrototipoDePapel.md
+        - Relato dos resultados da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/relatoDeResultadosDoPrototipoDePapel.md
+        - Entrevistas:
+          - Teste-Piloto: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/testePiloto.md
+          - João (Aluno): designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/entrevistaJoao.md
+          - Álvaro (Aluno): designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/entrevistaAlvaro.md
     #   - Protótipo de Baixa Fidelidade: designAvaliacaoDesenvolvimento/nivel2/prototipoBaixaFidelidade.md
-    # - Nível 3:
-    #   - Protótipo de Alta Fidelidade: designAvaliacaoDesenvolvimento/nivel3/prototipoAltaFidelidade.md
-    #   - Planejamento da Avaliação do Protótipo de Alta fidelidade: designAvaliacaoDesenvolvimento/nivel3/planejamentoAvaliacaoDoPrototipoDeAltaFidelidade.md
+    - Nível 3:
+      - Prot. de Alta Fidelidade:
+        - Planejamento da Avaliação do Protótipo de Alta fidelidade: designAvaliacaoDesenvolvimento/nivel3/planejamentoAvaliacaoDoPrototipoDeAltaFidelidade.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
       - Apresentação 5: apresentacoes/apresentacao5.md
+      - Apresentação 6: apresentacoes/apresentacao6.md
   - Atas de reunião:
       - Reunião 1: atas/atas1.md
       - Reunião 2: atas/atas2.md
