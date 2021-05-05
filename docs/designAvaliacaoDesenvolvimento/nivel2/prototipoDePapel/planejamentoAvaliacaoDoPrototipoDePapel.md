@@ -1,12 +1,10 @@
-## Planejamento da Avaliação do Protótipo de Papel
-
-### 1. Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 O método de prototipagem em papel avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade antes mesmo de construir uma solução de IHC executável. (Barbosa e Silva, 2010).
 </p>
 
-### 2. Metodologia
+## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify">
 Faremos a divisão das atividades do método de prototipagem em papel na seguinte tabela:
@@ -23,7 +21,7 @@ Faremos a divisão das atividades do método de prototipagem em papel na seguint
 <figcaption>Tabela 1: Atividades do método de avaliação heurística, retiradas do livro Interação Humano-Computador e Experiência do usuário, da Simone Barbosa, página 225.</figcaption>
 </center>
 
-### 3. Termo de consentimento
+## 3. Termo de consentimento
 
 <p style="text-indent: 20px; text-align: justify">
 Para a participação nesta avaliação, o participante, que é voluntário, deverá concordar com o seguinte termo de consentimento:
@@ -55,9 +53,9 @@ Para a acessar o documento do termo de consentimento, acesse este <a href='https
 
 </p>
 
-### 4. Preparação
+## 4. Preparação
 
-#### 4.1 Tarefas
+### 4.1 Tarefas
 <p style="text-indent: 20px; text-align: justify">
     <ul>
         <li>Login</li>
@@ -66,17 +64,17 @@ Para a acessar o documento do termo de consentimento, acesse este <a href='https
     </ul>
 </p>
 
-#### 4.2 Perfil dos convidados
+### 4.2 Perfil dos convidados
 <p style="text-indent: 20px; text-align: justify">
 Para essa atividade, buscaremos trazer alguns alunos da faculdade da Universidade de Brasília cursando Engenharia de Software no campus do Gama. O motivo dessa escolha é justamente a identificação e familiaridade prévia com o Vjudge.
 </p>
 
-#### 4.3 Teste Piloto
+### 4.3 Teste Piloto
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
 </p>
  
-#### 4.4 Protótipos em Papel
+### 4.4 Protótipos em Papel
 
 <p style="text-indent: 20px; text-align: justify">
 Esses são os protótipos em papel que definimos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Virtual Judge.
@@ -90,7 +88,7 @@ Esses são os protótipos em papel que definimos a partir das tarefas feitas, av
 </figcaption>
 </center>
 
-### 5. Coleta de Dados & Interpretação
+## 5. Coleta de Dados & Interpretação
 <p style="text-indent: 20px; text-align: justify">
 Nessa parte, cada usuário selecionado deve executar as tarefas propostas interagindo com os protótipos em papel, mediado por avaliadores.
 Faremos a divisão entre dois avaliadores: um será o responsável por simular o comportamento do sistema e outro para justamente fazer toda a análise e observação da experiência de uso do usuário. A ideia aqui é representar na interface do sistema tudo o que o for necessário informar ao usuário.
@@ -119,13 +117,13 @@ Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o
 Após a resposta do convidado, os avaliadores devem fazer suas devidas anotações para uma melhor coleta de dados.
 </p>
 
-### 6. Consolidação dos resultados
+## 6. Consolidação dos resultados
 <p style="text-indent: 20px; text-align: justify">
 Nessa atividade, temos um objetivo claro e simples: analisando o protótipo de interface, verificar quais problemas não foram resolvidos nele.
 Dessa forma, conseguimos fazer mais uma avaliação para melhorar cada vez mais o que já foi feito. Estabeleceremos uma hierarquia de erros, do mais ao menos grave, para propormos, juntos, correções que estiverem ao nosso alcance.
 </p>
 
-### 7. Relato dos resultados
+## 7. Relato dos resultados
 <p style="text-indent: 20px; text-align: justify">
 Por último, trataremos de relatar tudo o que tivemos por resultados a todos os interessados. No caso, comunicaremos sobre todos os objetivos que a avaliação tem, uma descrição sobre o protótipo de papel e seu método, o número e o perfil de participantes e avaliadores de cada etapa, as tarefas que esses convidados executaram, indicações de partes do sistema que podem ser mais elaboradas e mais duas listas: uma sobre os problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto (leia-se: local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema e sua justificativa, correção feita no protótipo, se o problema perdurou ou não) e outra sobre os problemas de usabilidade não corrigidos, com o local onde ocorreu, fatores de usabilidade que foram prejudicados, descrição do problema e sua justificava, prioridade para correção (hierarquia de erros) e as sugestões listadas para correção.
 </p>
