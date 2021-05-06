@@ -1,7 +1,10 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify"> 
-Tendo a preparação para a avaliação realizada na última etapa deste projeto, o grupo seguiu para a avaliação de fato da Análise de Tarefas em si produzida em etapas anteriores. Nessa análise, o grupo fez o uso dos métodos de identificação de tarefas GOMS e Árvore de Tarefas Concorrentes, e agora, o objetivo dessa avaliação é analisar e levantar o nível de qualidade que o tópico de Análise de Tarefas foi construído.  Assim, neste documento os avaliadores analisam o material registrado para atribuir significado aos dados coletados quando à <b>experiência dos usuários</b> aqui representados pelos entrevistados, quanto aos seus perfis.
+Tendo a preparação para a avaliação realizada na última entrega deste projeto, o grupo seguiu para a avaliação do protótipo de papel, produzido na etapa anterior. O protótipo de papel foi inicialmente feito à mão, e depois transferido para <a href='https://github.com/Interacao-Humano-Computador/2020.2-Vjudge/blob/master/docs/designAvaliacaoDesenvolvimento/nivel1/TermoDeConsentimento.pdf'>Figma</a>, para facilitar a interação dos convidados à análise com este artefato.
+</p>
+<p style="text-indent: 20px; text-align: justify"> 
+Logo, o objetivo dessa avaliação é analisar e levantar o nível de qualidade que o protótipo de papel foi construído. Assim, neste documento os avaliadores analisam o material registrado para atribuir significado aos dados coletados quando à <b>experiência dos usuários</b> aqui representados pelos entrevistados, quanto aos seus perfis.
 </p>
 <p style="text-indent: 20px; text-align: justify"> 
 Este documento é atribuído ao <i>framework</i> <b>DECIDE</b> predominantemente à atividade de letra <b>E</b>, que representa a fase de "<i>evaluate</i>", em português "avaliar". O avaliadores devem estar atentos a aspectos da avaliação realizada antes de tirar as conclusões e divulgar resultados, considerando principalmente o grau de confiabilidade dos dados, a validade externa do estudo e a validade ecológica do estudo. 
@@ -10,7 +13,7 @@ Este documento é atribuído ao <i>framework</i> <b>DECIDE</b> predominantemente
 ## 2. Método selecionado
 
 <p style="text-indent: 20px; text-align: justify"> 
-O grupo realizou a escolha de utilizar como método para esta avaliação a <b>entrevista</b>, pertencente aos métodos de investigação. Em vista disso, dentre os discentes que estavam responsáveis pelo tema da Análise de Tarefas, decidiu-se eleger apenas um entrevistador por entrevista, sendo no caso deste tema, o integrante Gabriel Bonifácio. Os outros integrantes que foram selecionados para esta parte da entrega, Ian e Guilherme, estavam também presentes no ambiente, para auxílio na coleta de dados.
+O grupo realizou a escolha de utilizar como método para esta avaliação a <b>entrevista</b>, pertencente aos métodos de investigação. Em vista disso, dentre os discentes que estavam responsáveis pelo desenvolvimento do protótipo de papel, decidiu-se eleger apenas um entrevistador por entrevista, sendo no caso deste tema, o integrante Gabriel Bonifácio. Os outros integrantes que foram selecionados para esta parte da entrega, Ian e Guilherme, estavam também presentes no ambiente, para auxílio na coleta de dados.
 </p>
 
 ### 2.1. Participantes
@@ -38,10 +41,10 @@ Conforme o previsto na preparação para esta avaliação, devido à atual situa
 O grupo sugeriu que para as entrevistas fosse utilizada a plataforma Microsoft Teams, que além de realizar a chamada, também realiza a gravação e compartilhamento de tela. Não foi detectado algum outro problema que pudesse atrapalhar na consolidação dos resultados.
 </p>
 
-## 3. Teste Piloto
+## 3. Teste-Piloto
 
 <p style="text-indent: 20px; text-align: justify"> 
-A implementação do teste piloto foi uma excelente alternativa para melhorarmos nosso protótipo e aumentar o nível da qualidade e eficiência das nossas entrevistas.
+A implementação do teste-piloto foi uma excelente alternativa para melhorarmos nosso protótipo e aumentar o nível da qualidade e eficiência das nossas entrevistas.
 O teste piloto foi realizado entre os integrantes Gabriel Bonifácio e Ian Filipe, enquanto que os integrantes Caio Martins, Ítalo Vinícius e Guilherme Richter faziam anotações pertinentes para melhor avaliarmos nosso processo de entrevista.
 </p>
 
@@ -93,7 +96,7 @@ Inicialmente, o entrevistador solicitou ao participante que relatasse em voz alt
 
 <p style="text-indent: 20px; text-align: justify">
 O estudante entrevistado Álvaro Leles correspondeu de forma gentil às perguntas, e passou seu feedback quanto à sua própria experiência na avaliação do protótipo de papel.
-O Álvaro conseguiu realizar suficiente bem as tarefas solicitadas, que fazem parte da análise de tarefas, e aqui foram postas à prova com a criação do protótipo de papel. Quantos às críticas e sugestões, o Álvaro considerou que o protótipo está conciso e objetivo, e sugeriu que o botão que leva à página "Problem" fosse alterado para o mesmo verbo no plural, pois segundo ele, ao ser soliticado entrar na página vem à sua cabeça o pensamento de que seria mostrado apenas um problema, e não uma listagem de todos que existem no site. Por fim, com uma pergunta do Ítalo quanto à função de "<i>favorite</i>" do site, o entrevistado sugeriu uma utilidade que consideraria bastante positiva, quanto à busca e exposição de problemas utilizando esse fator. E numa última pergunta, feita sobre a usabilidade de encaminhamento do Vjudge à página do problema em seu <i>judge</i> original, ele respondeu sendo algo desnecessário, pelo menos quanto ao uso que ele mesmo faria do site.
+O Álvaro conseguiu realizar suficiente bem as tarefas solicitadas, que fazem parte da análise de tarefas, e aqui foram postas à prova com a criação do protótipo de papel. Quantos às críticas e sugestões, o Álvaro considerou que o protótipo está conciso e objetivo, e sugeriu que o botão que leva à página "Problem" fosse alterado para o mesmo verbo no plural, pois segundo ele, ao ser solicitado entrar na página vem à sua cabeça o pensamento de que seria mostrado apenas um problema, e não uma listagem de todos que existem no site. Por fim, com uma pergunta do Ítalo quanto à função de "<i>favorite</i>" do site, o entrevistado sugeriu uma utilidade que consideraria bastante positiva, quanto à busca e exposição de problemas utilizando esse fator. E numa última pergunta, feita sobre a usabilidade de encaminhamento do Vjudge à página do problema em seu <i>judge</i> original, ele respondeu sendo algo desnecessário, pelo menos quanto ao uso que ele mesmo faria do site.
 </p>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -126,4 +129,5 @@ As entrevistas nos ajudaram a avaliar tanto as perguntas feitas quanto o nosso p
 
 | Versão | Data | Modificação | Autor |
 |:--:|:--:|:--:|:--:|
-| 1.0 | 29/04/2020 | Produção do relato dos resultados | Gabriel, Guilherme e Ian |
+| 1.0 | 29/04/2021 | Produção do relato dos resultados | Gabriel, Guilherme e Ian |
+| 1.1 | 05/05/2021 | Correção do texto da introdução | Guilherme |

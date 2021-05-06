@@ -32,8 +32,8 @@ Faremos a divisão das atividades do método de prototipagem de alta fidelidade 
 
 | Atividade | Tarefa |
 |:--|:---|
-| Preparação | <ul><li>Definir tarefas para os participantes executarem</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para executar as tarefas</li><li>Executar um teste-piloto</li></ul> |
-| Coleta de dados & Interpretação |  <ul><li>Cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados; e refinar os protótipos em papel para resolver mais simples</li> </ul> |
+| Preparação | <ul><li>Definir tarefas para os participantes executarem</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar o protótipo de alta fidelidade da interface para executar as tarefas</li><li>Executar um teste-piloto</li></ul> |
+| Coleta de dados & Interpretação |  <ul><li>Cada usuário deve executar as tarefas propostas interagindo com o protótipo de alta fidelidade, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados e refinar o protótipo de alta fidelidade.</li> </ul> |
 | Consolidação dos resultados | Priorizar a correção dos problemas não resolvidos sugerir correções |
 | Relato dos resultados | Relatar os problemas encontrados e sugestões de correção |
 
@@ -145,7 +145,7 @@ Dessa forma, conseguimos fazer mais uma avaliação para melhorar cada vez mais 
 
 ### 9. Relato dos resultados
 <p style="text-indent: 20px; text-align: justify">
-Por último, trataremos de relatar tudo o que tivemos por resultados a todos os interessados. No caso, comunicaremos sobre todos os objetivos que a avaliação tem, uma descrição sobre o protótipo de papel e seu método, o número e o perfil de participantes e avaliadores de cada etapa, as tarefas que esses convidados executaram, indicações de partes do sistema que podem ser mais elaboradas e mais duas listas: uma sobre os problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto (leia-se: local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema e sua justificativa, correção feita no protótipo, se o problema perdurou ou não) e outra sobre os problemas de usabilidade não corrigidos, com o local onde ocorreu, fatores de usabilidade que foram prejudicados, descrição do problema e sua justificava, prioridade para correção (hierarquia de erros) e as sugestões listadas para correção.
+Por último, trataremos de relatar tudo o que tivemos por resultados a todos os interessados. No caso, comunicaremos sobre todos os objetivos que a avaliação tem, uma descrição sobre o protótipo de alta fidelidade e seu método, o número e o perfil de participantes e avaliadores de cada etapa, as tarefas que esses convidados executaram, indicações de partes do sistema que podem ser mais elaboradas e mais duas listas: uma sobre os problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto (leia-se: local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema e sua justificativa, correção feita no protótipo, se o problema perdurou ou não) e outra sobre os problemas de usabilidade não corrigidos, com o local onde ocorreu, fatores de usabilidade que foram prejudicados, descrição do problema e sua justificava, prioridade para correção (hierarquia de erros) e as sugestões listadas para correção.
 </p>
  
 ## Referências bibliográficas
@@ -160,3 +160,4 @@ Por último, trataremos de relatar tudo o que tivemos por resultados a todos os 
 | 1.0 | Protótipo desenvolvido | 24-29/04/2021 | Ítalo e Caio |
 | 1.1 | Edição do documento de planejamento do protótipo de alta fidelidade | 28/04/2021 | Ian |
 | 1.2 | Inserção do Protótipo | 29/04/2021 | Ítalo |
+| 1.2.1 | Correção na tabela do método selecionado | 05/05/2021 | Guilherme |
