@@ -19,7 +19,7 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 ### 2.1. Participantes
 
 <p style="text-indent: 20px; text-align: justify"> 
-Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo apenas conseguiu encontrar 2 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os os cuidados éticos necessários. São:
+Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo apenas conseguiu encontrar 2 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
 </p>
 
 - Álvaro Leles Guimarães, aluno do 5º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de <b>estudante</b>);

@@ -16,7 +16,7 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 ### 2.1 Participantes
 
 <p style="text-indent: 20px; text-align: justify"> 
-Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo teve felicidade em encontrar 4 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os os cuidados éticos necessários. São:
+Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo teve felicidade em encontrar 4 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
 </p>
 
 - Álvaro Leles Guimarães, aluno do 5º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de <b>estudante</b>);
@@ -46,7 +46,7 @@ O grupo sugeriu que para as entrevistas fosse utilizada a plataforma Microsoft T
 <p style="text-indent: 20px; text-align: justify"> 
 As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da página, ou pelos links abaixo.
 </p>
-- Entrevista com o aluno Álvaro: [link](entrevistas/entrevistaAlvaro.md)
+- Entrevista com o aluno Álvaro: [link](entrevistas/entrevistaAlvaro.md) 
 - Entrevista com o aluno João Pedro: [link](entrevistas/entrevistaJoao.md)
 - Entrevista com o professor Bruno Ribas: [link](entrevistas/entrevistaBruno.md)
 - Entrevista com o professor John Lenon: [link](entrevistas/entrevistaJohn.md)
@@ -54,7 +54,7 @@ As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da p�
 ## 4. Relato dos resultados
 
 <p style="text-indent: 20px; text-align: justify"> 
-Os resultados serão aqui relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo havia roteirizado no planejamento, e que podem ser visualizados na tabela abaixo, listamos apenas professor e aluno pois foram os únicos perfis os quais entrevistamos:
+Os resultados serão aqui relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo havia roteirizado no planejamento.
 </p>
 <p style="text-indent: 20px; text-align: justify">
 Inicialmente, o entrevistador solicitou ao participante que visualizasse e lesse os storyboards que seriam avaliados, isso para que os entrevistados já poderiam formular opiniões sobre elas.

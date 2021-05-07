@@ -157,7 +157,7 @@ Por último, trataremos de relatar tudo o que tivemos por resultados a todos os 
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | Protótipo desenvolvido | 24-29/04/2021 | Ítalo e Caio |
-| 1.1 | Edição do documento de planejamento do protótipo de alta fidelidade | 28/04/2021 | Ian |
-| 1.2 | Inserção do Protótipo | 29/04/2021 | Ítalo |
-| 1.2.1 | Correção na tabela do método selecionado | 05/05/2021 | Guilherme |
+| 1.0 | 24-29/04/2021 | Protótipo desenvolvido | Ítalo e Caio |
+| 1.1 | 28/04/2021 |Edição do documento de planejamento do protótipo de alta fidelidade | Ian |
+| 1.2 | 29/04/2021 | Inserção do Protótipo | Ítalo |
+| 1.2.1 | 05/05/2021 | Correção na tabela do método selecionado | Guilherme |
