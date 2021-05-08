@@ -49,18 +49,19 @@ nav:
           - John Lenon (Professor): designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaJohn.md
     - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/planejamentoAvaliacaoDoPrototipoDePapel.md
-        - Relato dos resultados da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/relatoDeResultadosDoPrototipoDePapel.md
+        - Planejamento da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/planejamentoAvaliacaoDoPrototipoDePapel.md
+        - Relato dos resultados da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/relatoDeResultadosDoPrototipoDePapel.md
         - Entrevistas:
-          - Teste-Piloto: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/testePiloto.md
-          - João (Aluno): designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/entrevistaJoao.md
-          - Álvaro (Aluno): designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/entrevistaAlvaro.md
-    #   - Protótipo de Baixa Fidelidade: designAvaliacaoDesenvolvimento/nivel2/prototipoBaixaFidelidade.md
+          - Teste-Piloto: designAvaliacaoDesenvolvimento/nivel2/entrevistas/testePiloto.md
+          - João (Aluno): designAvaliacaoDesenvolvimento/nivel2/entrevistas/entrevistaJoao.md
+          - Álvaro (Aluno): designAvaliacaoDesenvolvimento/nivel2/entrevistas/entrevistaAlvaro.md
     - Nível 3:
       - Prot. de Alta Fidelidade:
         - Planejamento da Avaliação do Protótipo de Alta fidelidade: designAvaliacaoDesenvolvimento/nivel3/planejamentoAvaliacaoDoPrototipoDeAltaFidelidade.md
-        - Relato dos resultados da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel3/relatoDeResultadosDoPrototipoDeAltaFidelidade.md
+        - Relato dos resultados da Avaliação do Protótipo de Alta fidelidade: designAvaliacaoDesenvolvimento/nivel3/relatoDeResultadosDoPrototipoDeAltaFidelidade.md
+        - Protótipo de Alta Fidelidade: designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade.md
         - Entrevistas:
+          - Teste-piloto: designAvaliacaoDesenvolvimento/nivel3/entrevistas/testePilotoAltaFidelidade.md
           - Álvaro (Aluno): designAvaliacaoDesenvolvimento/nivel3/entrevistas/entrevistaAlvaro.md
           - John Lenon (Professor): designAvaliacaoDesenvolvimento/nivel3/entrevistas/entrevistaJohn.md
   - Apresentações:

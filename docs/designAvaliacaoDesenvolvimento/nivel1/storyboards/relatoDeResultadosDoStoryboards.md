@@ -19,10 +19,10 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a <b>e
 Após um período de procura por voluntários a serem entrevistados acerca deste tema, o grupo teve felicidade em encontrar 4 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
 </p>
 
-- Álvaro Leles Guimarães, aluno do 5º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de <b>estudante</b>);
-- João Pedro, aluno do 7º semestre do curso de Engenharia de Software da UnB (que também satisfaz o perfil de usuário de <b>estudante</b>);
-- Professor Doutor Bruno Ribas, docente das disciplinas Estruturas de Dados e Algoritmos 2, Fundamentos de Sistemas Operacionais e Programação para Sistemas Paralelos Distribuídos (satisfaz o perfil de usuário de <b>professor</b>);
-- Professor Doutor John Lenon Gardenghi, docente das disciplinas Estruturas de Dados e Algoritmos 1 e Fundamentos de Arquiteturas de Computadores (que também satisfaz o perfil de usuário <b>professor</b>).
+- <div style="text-align: justify">Álvaro Leles Guimarães, aluno do 5º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de <b>estudante</b>);</div>
+- <div style="text-align: justify">João Pedro, aluno do 7º semestre do curso de Engenharia de Software da UnB (que também satisfaz o perfil de usuário de <b>estudante</b>);</div>
+- <div style="text-align: justify">Professor Doutor Bruno Ribas, docente das disciplinas Estruturas de Dados e Algoritmos 2, Fundamentos de Sistemas Operacionais e Programação para Sistemas Paralelos Distribuídos (satisfaz o perfil de usuário de <b>professor</b>);</div>
+- <div style="text-align: justify">Professor Doutor John Lenon Gardenghi, docente das disciplinas Estruturas de Dados e Algoritmos 1 e Fundamentos de Arquiteturas de Computadores (que também satisfaz o perfil de usuário <b>professor</b>).</div>
 
 <p style="text-indent: 20px; text-align: justify"> 
 Infortunadamente, o grupo não conseguiu a tempo obter o contato de alguma pessoa que exerce o papel de pesquisador de computação que se voluntariasse a ser entrevistado, impossibilitando de trazer uma avaliação da Análise de Tarefas por um usuário que se encaixasse no perfil de pesquisador. Assim, não foi possível completar o número recomendado por Nielsen (2000), de 5 participantes. Apesar disso, o grupo acredita ter sido suficiente para ajudar a encontrar a maioria dos problemas na interface, de forma que gerou um bom custo benefício, principalmente devido ao grau de conhecimento dos participantes sobre o domínio.

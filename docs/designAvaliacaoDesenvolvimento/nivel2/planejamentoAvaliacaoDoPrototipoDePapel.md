@@ -102,6 +102,10 @@ O objetivo nessa fase é tratar a coleta de dados a partir da experiência do pa
 |:--:|:---|:----|
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
+<center>
+<figcaption>Tabela 2: Pergunta inicial que deve ser feita ao entrevistado.</figcaption>
+</center>
+
 <p style="text-indent: 20px; text-align: justify">
 Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o participante seja convidado a responder as seguintes perguntas, na medida que se sentir à vontade a fazê-lo:
 </p>
@@ -112,6 +116,10 @@ Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o
 | 2 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente complicado e "5", extremamente trivial? | <ul> <li>1 - Extremamente complicado<li>2 - Complicado<li>3 - Neutro<li>4 - Trivial<li>5 - Extremamente trivial</ul> |
 | 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
 | 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
+
+<center>
+<figcaption>Tabela 3: Perguntas finais que devem ser feitas ao entrevistado.</figcaption>
+</center>
 
 <p style="text-indent: 20px; text-align: justify">
 Após a resposta do convidado, os avaliadores devem fazer suas devidas anotações para uma melhor coleta de dados.
@@ -139,3 +147,4 @@ Por último, trataremos de relatar tudo o que tivemos por resultados a todos os 
 | 1.0 | 22/04/2021 | Produção do planejamento do protótipo de papel. | Gabriel |
 | 1.1 | 27/04/2021 | Correção da posição dos tópicos feitos. | Gabriel |
 | 2.0 | 29/04/2021 | Reformulação do Protótipo de Papel | Gabriel e Ian |
+| 2.1 | 07/05/2021 | Adicionando legenda nas tabelas | Ian |

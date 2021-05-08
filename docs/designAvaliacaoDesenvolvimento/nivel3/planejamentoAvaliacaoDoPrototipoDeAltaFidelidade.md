@@ -1,16 +1,16 @@
-### 1. Introdução
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 A avaliação de IHC é uma atividade fundamental na busca de produzir sistema interativo com alta qualidade de uso, orientando o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Os métodos de avaliação de IHC podem ser aplicados em diferentes momentos do processo de desenvolvimento, dependendo dos dados disponíveis sobre a solução de IHC sendo concebida.
 </p>
 
-### 2. Objetivo
+## 2. Objetivo
 
 <p style="text-indent: 20px; text-align: justify">
 A preparação para avaliação é fundamental para a condução adequada de uma avaliação que forneça resultados úteis e confiáveis. Assim, essa preparação possui o objetivo de conduzir a avaliação que será feita posteriormente quanto ao desenvolvimento do grupo acerca do protótipo de alta fidelidade do site proposto, o Vjudge.
 </p>
 
-### 3. Escopo
+## 3. Escopo
 
 <p style="text-indent: 20px; text-align: justify">
 O escopo desta avaliação é analisar e levantar o nível de qualidade que o grupo realizou o protótipo de alta fidelidade do site Vjudge, se limitando a esse tópico pertencente ao último nível do design, avaliação e desenvolvimento da solução, quanto ao ciclo de vida da Mayhew.
@@ -41,7 +41,7 @@ Faremos a divisão das atividades do método de prototipagem de alta fidelidade 
 <figcaption>Tabela 1: Atividades do método de avaliação heurística, retiradas do livro Interação Humano-Computador e Experiência do usuário, da Simone Barbosa, página 225.</figcaption>
 </center>
 
-### 5. Termo de consentimento
+## 5. Termo de consentimento
 
 <p style="text-indent: 20px; text-align: justify">
 Para a participação nesta avaliação, o participante, que é voluntário, deverá concordar com o seguinte termo de consentimento:
@@ -73,10 +73,10 @@ Para a acessar o documento do termo de consentimento, acesse este <a href='https
 
 </p>
 
-### 6. Preparação
+## 6. Preparação
 
-#### 6.1 Tarefas
-<p style="text-indent: 20px; text-align: justify">
+### 6.1 Tarefas
+<p style="text-indent: 20px; text-align: justify">,
     <ul>
         <li>Login</li>
         <li>Se cadastrar</li>
@@ -84,17 +84,17 @@ Para a acessar o documento do termo de consentimento, acesse este <a href='https
     </ul>
 </p>
 
-#### 6.2 Perfil dos convidados
+### 6.2 Perfil dos convidados
 <p style="text-indent: 20px; text-align: justify">
 Para essa atividade, buscaremos trazer alguns alunos da faculdade da Universidade de Brasília cursando Engenharia de Software no campus do Gama. O motivo dessa escolha é justamente a identificação e familiaridade prévia com o Vjudge. Também entrevistaremos professores, de forma a cumprir com os perfis de usuário propostos anteriormente neste projeto.
 </p>
 
-#### 6.3 Teste Piloto
+### 6.3 Teste Piloto
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo.
 </p>
  
-#### 6.4 Protótipo de alta fidelidade
+### 6.4 Protótipo de alta fidelidade
 
 <p style="text-indent: 20px; text-align: justify">
 Este é o protótipo de alta fidelidade que definimos a partir das tarefas feitas, avaliando a usabilidade de design na Interação Humano Computador do site Virtual Judge.
@@ -104,11 +104,11 @@ Este é o protótipo de alta fidelidade que definimos a partir das tarefas feita
 
 <center>
 <figcaption>
-    Para acessar o protótipo acima, acesse este <a href='https://www.figma.com/proto/dgxnSFUmDvcLM4sKWVHUoL/Vjudge?node-id=35%3A89&scaling=scale-down&page-id=0%3A1' target='_blank'>link</a>
+    Para acessar a primeira versão do protótipo, acesse este <a href='https://www.figma.com/proto/dgxnSFUmDvcLM4sKWVHUoL/Vjudge?node-id=35%3A89&scaling=scale-down&page-id=0%3A1' target='_blank'>link</a>
 </figcaption>
 </center>
 
-### 7. Coleta de Dados & Interpretação
+## 7. Coleta de Dados & Interpretação
 <p style="text-indent: 20px; text-align: justify">
 Nessa parte, cada usuário selecionado deve executar as tarefas propostas interagindo com os protótipo de alta fidelidade, mediado por avaliadores.
 Faremos a divisão entre dois avaliadores: um será o responsável por simular o comportamento do sistema e outro para justamente fazer toda a análise e observação da experiência de uso do usuário. A ideia aqui é representar na interface do sistema tudo o que o for necessário informar ao usuário.
@@ -122,6 +122,10 @@ O objetivo nessa fase é tratar a coleta de dados a partir da experiência do pa
 |:--:|:---|:----|
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
+<center>
+<figcaption>Tabela 2: Pergunta inicial que deve ser feita ao entrevistado.</figcaption>
+</center>
+
 <p style="text-indent: 20px; text-align: justify">
 Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o participante seja convidado a responder as seguintes perguntas, na medida que se sentir à vontade a fazê-lo:
 </p>
@@ -133,17 +137,21 @@ Além da avaliação pessoal dos avaliadores, buscaremos também fazer com que o
 | 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
 | 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
 
+<center>
+<figcaption>Tabela 3: Perguntas finais que devem ser feitas ao entrevistado.</figcaption>
+</center>
+
 <p style="text-indent: 20px; text-align: justify">
 Após a resposta do convidado, os avaliadores devem fazer suas devidas anotações para uma melhor coleta de dados.
 </p>
 
-### 8. Consolidação dos resultados
+## 8. Consolidação dos resultados
 <p style="text-indent: 20px; text-align: justify">
 Nessa atividade, temos um objetivo claro e simples: analisando o protótipo de interface, verificar quais problemas não foram resolvidos nele.
 Dessa forma, conseguimos fazer mais uma avaliação para melhorar cada vez mais o que já foi feito. Estabeleceremos uma hierarquia de erros, do mais ao menos grave, para propormos, juntos, correções que estiverem ao nosso alcance.
 </p>
 
-### 9. Relato dos resultados
+## 9. Relato dos resultados
 <p style="text-indent: 20px; text-align: justify">
 Por último, trataremos de relatar tudo o que tivemos por resultados a todos os interessados. No caso, comunicaremos sobre todos os objetivos que a avaliação tem, uma descrição sobre o protótipo de alta fidelidade e seu método, o número e o perfil de participantes e avaliadores de cada etapa, as tarefas que esses convidados executaram, indicações de partes do sistema que podem ser mais elaboradas e mais duas listas: uma sobre os problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto (leia-se: local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema e sua justificativa, correção feita no protótipo, se o problema perdurou ou não) e outra sobre os problemas de usabilidade não corrigidos, com o local onde ocorreu, fatores de usabilidade que foram prejudicados, descrição do problema e sua justificava, prioridade para correção (hierarquia de erros) e as sugestões listadas para correção.
 </p>
@@ -161,3 +169,4 @@ Por último, trataremos de relatar tudo o que tivemos por resultados a todos os 
 | 1.1 | 28/04/2021 |Edição do documento de planejamento do protótipo de alta fidelidade | Ian |
 | 1.2 | 29/04/2021 | Inserção do Protótipo | Ítalo |
 | 1.2.1 | 05/05/2021 | Correção na tabela do método selecionado | Guilherme |
+| 1.3 | 07/05/2021 | Arrumando os tópicos e colocando legenda nas tabelas | Ian |

@@ -1,7 +1,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify"> 
-Tendo a preparação para a avaliação realizada na última entrega deste projeto, o grupo seguiu para a avaliação do protótipo de papel, produzido na etapa anterior. O protótipo de papel foi inicialmente feito à mão, e depois transferido para <a href='https://github.com/Interacao-Humano-Computador/2020.2-Vjudge/blob/master/docs/designAvaliacaoDesenvolvimento/nivel1/TermoDeConsentimento.pdf'>Figma</a>, para facilitar a interação dos convidados à análise com este artefato.
+Tendo a preparação para a avaliação realizada na última entrega deste projeto, o grupo seguiu para a avaliação do protótipo de papel, produzido na etapa anterior. O protótipo de papel foi inicialmente feito à mão, e depois transferido para <a href='https://www.figma.com/proto/WGcb7bfvjlNiaiNLratQ1m/PrototipoDePapel?node-id=1%3A3&scaling=contain&page-id=0%3A1'>Figma</a>, para facilitar a interação dos convidados à análise com este artefato.
 </p>
 <p style="text-indent: 20px; text-align: justify"> 
 Logo, o objetivo dessa avaliação é analisar e levantar o nível de qualidade que o protótipo de papel foi construído. Assim, neste documento os avaliadores analisam o material registrado para atribuir significado aos dados coletados quando à <b>experiência dos usuários</b> aqui representados pelos entrevistados, quanto aos seus perfis.
@@ -73,6 +73,10 @@ Os resultados estão aqui relatados seguindo o roteiro de respostas e interaçõ
 |:--:|:---|:----|
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
+<center>
+<figcaption>Tabela 1: Pergunta inicial que deve ser feita ao entrevistado.</figcaption>
+</center>
+
 <p style="text-indent: 20px; text-align: justify">
 Além da avaliação pessoal dos avaliadores, buscamos também fazer com que o participante fosse convidado a responder as seguintes perguntas, na medida que se sentisse à vontade de fazer:
 </p>
@@ -83,6 +87,10 @@ Além da avaliação pessoal dos avaliadores, buscamos também fazer com que o p
 | 2 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>1 - Extremamente trivial<li>2 - Trivial<li>3 - Neutro<li>4 - Complicado<li>5 - Extremamente complicado </ul> |
 | 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
 | 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
+
+<center>
+<figcaption>Tabela 2: Perguntas finais que devem ser feitas ao entrevistado.</figcaption>
+</center>
 
 <p style="text-indent: 20px; text-align: justify"> 
 Por fim também foram relatados os resultados gerados pelas opiniões do usuário na entrevista pós-teste, caso sejam expostas, relatando brevemente a experiência de uso que vivenciou durante a avaliação.
@@ -131,3 +139,4 @@ As entrevistas nos ajudaram a avaliar tanto as perguntas feitas quanto o nosso p
 |:--:|:--:|:--:|:--:|
 | 1.0 | 29/04/2021 | Produção do relato dos resultados | Gabriel, Guilherme e Ian |
 | 1.1 | 05/05/2021 | Correção do texto da introdução | Guilherme |
+| 1.2 | 07/05/2021 | Adicionando legenda nas tabelas | Ian |

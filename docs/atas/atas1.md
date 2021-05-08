@@ -21,7 +21,7 @@ Desenvolvemos a documentação inicial do site e gravamos a apresentação do tr
 - Chamada online no Discord
 - Teams para gravação da apresentação
 
-## 2. Versionamento
+## Versionamento
 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |

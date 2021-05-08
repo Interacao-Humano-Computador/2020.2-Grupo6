@@ -19,7 +19,7 @@ Desenvolvemos a documentação de planejamento e avaliação da Análise de Tare
 - Teams para gravação da apresentação e entrevista
 - Usamos o Jitsi em razão de algumas complicações que tivemos com o Teams na entrevista com o professor Bruno Ribas
 
-## 2. Versionamento
+## Versionamento
 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |

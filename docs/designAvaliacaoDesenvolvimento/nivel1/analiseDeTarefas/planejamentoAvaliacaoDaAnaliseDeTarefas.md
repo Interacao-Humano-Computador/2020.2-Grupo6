@@ -122,6 +122,7 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | 14 | Você acha que esses que as duas colunas da página anterior são necessárias, ou você acharia melhor se o link que o leva para o site do problema original estivesse apenas dentro da página do problema no Vjudge? | Demonstrativo|
 | 15 | Os quatro pontões na parte superior-esquerda em relação a descrição do problema, então bem explicados, quer dizer, sem clicar neles, você pode me dizer o que cada um faz? | Demonstrativo|
 
+<figcaption>Tabela 1 - Roteiro para a entrevista</figcaption>
 
 <p style="text-indent: 20px; text-align: justify">
 Ao fim deste último tópico do roteiro (15), o entrevistador agradece a participação do entrevistado e se despede.

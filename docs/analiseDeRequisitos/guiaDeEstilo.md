@@ -89,6 +89,8 @@ A fonte a ser utilizada por nós será a <a href="https://fonts.google.com/speci
 | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_logout_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_message_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_public_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_search_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_text_snippet_black_24dp.png" /> |
 | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_update_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_upload_file_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_visibility_black_24dp.png" /> | <img src="../../assets/analiseDeTarefas/guiaDeEstilo/icons/outline_visibility_off_black_24dp.png" /> | <img src="../../assets/icons/vjudge.png" width=24px/> |
 
+<figcaption>Tabela 1 - Ícones</figcaption>
+
 </center>
 
 ### 3.5. Cores

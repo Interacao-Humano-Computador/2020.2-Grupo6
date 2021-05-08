@@ -39,6 +39,10 @@ OBS.: Essas datas podem mudar futuramente.
 |Verificação dos artefatos.|04/05|Verificação dos artefatos construídos no projeto|
 |Entrega da apresentação do projeto final|10/05|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
 
+<center>
+<figcaption>Tabela 1 - Cronograma de atividades</figcaption>
+</center>
+
 ### 2.2 Disponibilidade dos integrantes
 
 <p style="text-indent: 20px; text-align: justify">
@@ -47,15 +51,16 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <img src="../assets/horarios/horarios.png" alt="Horários disponíveis">
+  <figcaption>Figura 1 - Grade de disponibilidade dos integrantes</figcaption>
 </div>
 
 ## 3. Metodologia adotada
-e
+
 <p style="text-indent: 20px; text-align: justify">
 No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
 </p>
 
-## XP - Extreme programming
+#### XP - Extreme programming
 
 <p style="text-indent: 20px; text-align: justify">
 Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, escolhemos a metodologia XP, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Adotamos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
@@ -65,28 +70,28 @@ Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos ident
 Dentre as variáveis de controle em projetos (custo, tempo, qualidade e escopo), há um foco explícito em escopo. Para isso, recomenda-se a priorização de funcionalidades que representem maior valor possível para o negócio. Desta forma, caso seja necessário a diminuição de escopo, as funcionalidades menos valiosas serão adiadas ou canceladas.
 </p>
 
-#### Reuniões semanais
+#### 3.1 Reuniões semanais
 
 <p style="text-indent: 20px; text-align: justify">
 Encontros que faremos toda semana para dividir tarefas e discutir sobre quais são as melhores maneiras de desenvolver este projeto, debatendo sobre as técnicas e modos de aplicá-las em relação ao Vjudge. As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site.
 </p>
 
-#### Criação e disponibilidade de issues
+#### 3.2 Criação e disponibilidade de issues
 
 <p style="text-indent: 20px; text-align: justify">
 Vamos listar todas as tarefas que temos que fazer durante a semana e qual o status dessa issue, se resolvermos essa issue, então a fechamos, porém se estivermos tendo problemas, vamos tentar descrever quais problemas que estamos sofrendo.
 </p>
 
-#### Divisão de tarefas
+#### 3.3 Divisão de tarefas
 
 <p style="text-indent: 20px; text-align: justify">
 A partir das reuniões, vamos dividir quais funções são específicas para cada membro e vamos listá-las nas nossas plataformas mais diretas, como Discord e Telegram, essas atividades são separadas por rodízio de dificuldade e trabalho, sendo os integrantes resposáveis por comunicarem quem ficou com a tarefa mais pesada na entrega anterior e assim ficarem com uma tarefa mais simples na tarefa atual
 </p>
 
-#### Responsabilidades
+#### 3.4 Responsabilidades
 
 <p style="text-indent: 20px; text-align: justify">
-As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ítalo Vinícius, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Ian Fillipe, porém todos do grupo terão essa responsabilidade de maneira secundária
+As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ítalo Vinícius, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Ian Fillipe, porém todos do grupo terão essa responsabilidade de maneira secundária.
 </p>
 
 ## 4. Ferramentas Utilizadas
@@ -105,6 +110,10 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 |<img width="80px" height="80px" src="../assets/icons/visualStudioCode.png" alt="VSCode_icon">|VSCode|Editor de código-fonte|
 |<img width="80px" height="80px" src="../assets/icons/liveShare.jpg" alt="VSCode_icon">|LiveShare|Editor de código-fonte de uma maneira compartilhada em equipe|
 
+<center>
+<figcaption>Tabela 2 - Ferramentas utilizadas</figcaption>
+</center>
+
 ## Referências bibliográficas:
 
 > SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a . Edição, Editora Campus, 2010.
@@ -121,4 +130,4 @@ As pessoas que irão interferir diretamenta no desenvolvimento do código será 
 | 1.5.1 | 13/03/2021 | Mudando o tamanho dos ícones das ferramentas| Ítalo |
 | 1.6 | 13/03/2021 | Adicionando sites avaliados individualmente| Ítalo |
 | 1.6 | 13/03/2021 | Especificando metodologia adotada| Ítalo |
-| 1.6.1 | 16/03/2021 | Revisão feita| Ian |
+| 1.6.1 | 16/03/2021 | Revisão feita | Ian |

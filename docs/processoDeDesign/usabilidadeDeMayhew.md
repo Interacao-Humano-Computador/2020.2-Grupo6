@@ -29,7 +29,7 @@ O que nos levou também à escolha desse processo, foi justamente a quantidade d
 ## 3. Ciclo de Vida de Mayhew
 
 <p style="text-indent: 20px; text-align: justify">
-O ciclo é dividido em três fases, respectivamente: primeiro a **análise de requisitos** , em segundo o **design, avaliação e desenvolvimento** e finalmente a **instalação**.
+O ciclo é dividido em três fases, respectivamente: primeiro a <b>análise de requisitos</b>, em segundo o <b>design, avaliação e desenvolvimento</b> e finalmente a <b>instalação</b>.
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
@@ -61,10 +61,12 @@ Devido às características mencionadas acima do processo de Engenharia de Usabi
 
 ## Referências bibliográficas
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+> Paterno, Fabio (1999). Model-Based Design and Evaluation of Interactive Applications. Springer-Verlag, Berlin, Heidelberg, 1st edition.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 13/03/2021 | Separando o processo de design em outra página (feedback) | Ítalo |
+| 1.1 | 07/05/2021 | Arrumando as referências | Guilherme |

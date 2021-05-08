@@ -20,7 +20,7 @@ Desenvolvemos a documentação do relato dos resultados do Protótipo de Papel e
 - Chamada online no Discord para criação e desenvolvimento das tarefas
 - Teams para gravação da apresentação e entrevista
 
-## 2. Versionamento
+## Versionamento
 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |

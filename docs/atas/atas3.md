@@ -19,7 +19,7 @@ Desenvolvemos a documentação de continuação da análise de requisitos site e
 - Chamada online no Discord para criação e desenvolvimento das tarefas
 - Teams para gravação da apresentação
 
-## 2. Versionamento
+## Versionamento
 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
