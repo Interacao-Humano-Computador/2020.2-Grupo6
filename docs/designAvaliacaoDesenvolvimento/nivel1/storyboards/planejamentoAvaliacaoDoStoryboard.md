@@ -96,7 +96,9 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | 6 | O que você pensa sobre a solução do Virtual Judge apresentada no Storyboard? Ela é eficaz? | Pergunta discursiva |
 | 7 | Você imagina algum outro cenário que poderia ser representado pelos Storyboards em relação ao aluno? | Pergunta discursiva |
 
+<center>
 <figcaption>Tabela 1 - Roteiro para a entrevista de aluno</figcaption>
+</center>
 
 #### 6.3.2 Professor
 
@@ -113,7 +115,9 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | 6 | O que você pensa sobre a solução do Virtual Judge apresentada no Storyboard? Ela é eficaz? | Pergunta discursiva |
 | 7 | Você imagina algum outro cenário que poderia ser representado pelos Storyboards em relação ao professor? | Pergunta discursiva |
 
+<center>
 <figcaption>Tabela 2 - Roteiro para a entrevista de professor</figcaption>
+</center>
 
 #### 6.3.3 Pesquisador
 
@@ -130,7 +134,9 @@ Inicialmente, o avaliador irá se apresentar e realizar a recepção do particip
 | 6 | O que você pensa sobre a solução do Virtual Judge apresentada no Storyboard? Ela é eficaz? | Pergunta discursiva |
 | 7 | Você imagina algum outro cenário que poderia ser representado pelos Storyboards em relação ao pesquisador? | Pergunta discursiva |
 
+<center>
 <figcaption>Tabela 3 - Roteiro para a entrevista de pesquisador</figcaption>
+</center>
 
 ## 7. Conclusão
 <p style="text-indent: 20px; text-align: justify"> 

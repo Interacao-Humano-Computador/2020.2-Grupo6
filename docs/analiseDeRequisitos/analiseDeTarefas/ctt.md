@@ -66,12 +66,13 @@ Como já tínhamos escolhido o GOMS como uma técnica para análise de tarefas, 
     <a href="../../../assets/analiseDeTarefas/CTT/comLoginCTT.png" target="_blank">
         <img src="../../../assets/analiseDeTarefas/CTT/comLoginCTT.png" height="100%" width="100%"></img>
     </a>
-    <figcaption>Figura 2 - CTT baseado em um usuário que esteja logado</figcaption>
+    <figcaption>Figura 2 - CTT baseado em um usuário que esteja <a href='https://lucid.app/lucidchart/invitations/accept/inv_d01dedce-1498-4e44-95f0-a0599636d9a3?viewport_loc=-2775%2C-1396%2C7433%2C3540%2C0_0' target='_blank'>logado</a></figcaption>
     <a href="../../../assets/analiseDeTarefas/CTT/semLoginCTT.png" target="_blank">
         <img src="../../../assets/analiseDeTarefas/CTT/semLoginCTT.png" height="100%" width="100%"></img>
     </a>
-    <figcaption>Figura 3 - CTT baseado em um usuário que não esteja logado (abra)</figcaption>
+    <figcaption>Figura 3 - CTT baseado em um usuário que não esteja <a href='https://lucid.app/lucidchart/invitations/accept/inv_f78e66ea-fbfd-47b5-aaaf-f90c483e0fb2?viewport_loc=-3572%2C-2046%2C10030%2C4776%2C0_0' target='_blank'>logado</a></figcaption>
 </div>
+
 
 ## Referências bibliográficas
 

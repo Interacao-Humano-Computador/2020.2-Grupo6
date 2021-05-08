@@ -60,7 +60,7 @@ Tabela que mostra a disponibilidade de cada integrante, no intuito de o próprio
 No quesito das metodologias adotadas e de experiências passadas, iremos adotar um método ágil para desenvolver o projeto, tais como:
 </p>
 
-#### XP - Extreme programming
+### 3.1 XP - Extreme programming
 
 <p style="text-indent: 20px; text-align: justify">
 Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos identificar com nenhuma, no entanto, a partir da lista de exercícios de Requisitos de Software sobre os métodos ágeis, escolhemos a metodologia XP, seguindo seus valores de comunicação, simplicidade, feedback, coragem e respeito. Adotamos esta metodologia para descrever o nosso processo de trabalho e desenvolvimento do projeto.
@@ -70,25 +70,25 @@ Pensamos em uma metodologia para se trabalhar, porém não conseguimos nos ident
 Dentre as variáveis de controle em projetos (custo, tempo, qualidade e escopo), há um foco explícito em escopo. Para isso, recomenda-se a priorização de funcionalidades que representem maior valor possível para o negócio. Desta forma, caso seja necessário a diminuição de escopo, as funcionalidades menos valiosas serão adiadas ou canceladas.
 </p>
 
-#### 3.1 Reuniões semanais
+### 3.2 Reuniões semanais
 
 <p style="text-indent: 20px; text-align: justify">
 Encontros que faremos toda semana para dividir tarefas e discutir sobre quais são as melhores maneiras de desenvolver este projeto, debatendo sobre as técnicas e modos de aplicá-las em relação ao Vjudge. As atas e conteúdo das reuniões ficarão disponíveis na área de atas, aqui em nosso site.
 </p>
 
-#### 3.2 Criação e disponibilidade de issues
+### 3.3 Criação e disponibilidade de issues
 
 <p style="text-indent: 20px; text-align: justify">
 Vamos listar todas as tarefas que temos que fazer durante a semana e qual o status dessa issue, se resolvermos essa issue, então a fechamos, porém se estivermos tendo problemas, vamos tentar descrever quais problemas que estamos sofrendo.
 </p>
 
-#### 3.3 Divisão de tarefas
+### 3.4 Divisão de tarefas
 
 <p style="text-indent: 20px; text-align: justify">
 A partir das reuniões, vamos dividir quais funções são específicas para cada membro e vamos listá-las nas nossas plataformas mais diretas, como Discord e Telegram, essas atividades são separadas por rodízio de dificuldade e trabalho, sendo os integrantes resposáveis por comunicarem quem ficou com a tarefa mais pesada na entrega anterior e assim ficarem com uma tarefa mais simples na tarefa atual
 </p>
 
-#### 3.4 Responsabilidades
+### 3.5 Responsabilidades
 
 <p style="text-indent: 20px; text-align: justify">
 As pessoas que irão interferir diretamenta no desenvolvimento do código será apenas o Ítalo Vinícius, ele se baseará na entrega de cada participante para atualizar o website, o responsável por fazer a revisão será o Ian Fillipe, porém todos do grupo terão essa responsabilidade de maneira secundária.

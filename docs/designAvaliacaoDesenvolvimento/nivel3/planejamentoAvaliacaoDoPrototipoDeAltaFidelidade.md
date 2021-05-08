@@ -76,7 +76,7 @@ Para a acessar o documento do termo de consentimento, acesse este <a href='https
 ## 6. Preparação
 
 ### 6.1 Tarefas
-<p style="text-indent: 20px; text-align: justify">,
+<p style="text-indent: 20px; text-align: justify">
     <ul>
         <li>Login</li>
         <li>Se cadastrar</li>

@@ -76,7 +76,7 @@ Ao longo da entrevista, o entrevistado fez os seguintes comentários:
 
 - <div style="text-align: justify">Disse que o uso das cores estava muito bom e agradável em todo o site, relatando principalmente na parte de submissões da questão, nas cores que usamos para as palavras: 'Accepted', 'TLE', 'Runtime Error' e 'Wrong Answer'.</div>
 
-- <div style="text-align: justify">Por fim, ao ser questionado pelo entrevistador ao respeito do posicionamento do botão 'Upload file' na tela do problema, ele relatou que de fato, o posicionamento do botão no final da página estava ruim, pois gera passos a mais que o usuário precisa fazer para submeter a solução de um problema, se essa solução é em arquivo.</div>
+- <div style="text-align: justify">Por fim, ao ser questionado pelo entrevistador a respeito do posicionamento do botão 'Upload file' na tela do problema, ele relatou que de fato, o posicionamento do botão no final da página estava ruim, pois gera passos a mais que o usuário precisa fazer para submeter a solução de um problema, se essa solução é em arquivo.</div>
 
 <p style="text-indent: 20px; text-align: justify">
 Ao final percebemos que o Álvaro ofereceu diversos comentários que nos ajudaria a melhorar o protótipo, visando proporcionar a usabilidade ideal para o usuário.

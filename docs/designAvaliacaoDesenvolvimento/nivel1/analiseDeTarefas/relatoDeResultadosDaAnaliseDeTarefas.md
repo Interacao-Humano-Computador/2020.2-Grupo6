@@ -48,6 +48,8 @@ As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da p�
 </p>
 - Entrevista com o aluno Álvaro: [link](entrevistas/entrevistaAlvaro.md)
 - Entrevista com o aluno João Pedro: [link](entrevistas/entrevistaJoao.md)
+- Entrevista com o professor Bruno Ribas: [link](entrevistas/entrevistaBruno.md)
+- Entrevista com o professor John Lenon: [link](entrevistas/entrevistaJohn.md)
 
 ## 4. Relato dos resultados
 
@@ -78,6 +80,10 @@ Os resultados serão aqui relatados seguindo o roteiro de respostas e interaçõ
 | 13 | Se você quisesse acessar o site do problema original, você conseguiria acessar pela página do problema no Vjudge? | Demonstrativo|
 | 14 | Você acha que esses que as duas colunas da página anterior são necessárias, ou você acharia melhor se o link que o leva para o site do problema original estivesse apenas dentro da página do problema no Vjudge? | Demonstrativo|
 | 15 | Os quatro pontões na parte superior-esquerda em relação a descrição do problema, então bem explicados, quer dizer, sem clicar neles, você pode me dizer o que cada um faz? | Demonstrativo|
+
+<center>
+<figcaption>Tabela 1 - Roteiro para a entrevista</figcaption>
+</center>
 
 <p style="text-indent: 20px; text-align: justify"> 
 Por fim também serão relatados os resultados gerados pelas opiniões do usuário na entrevista pós-teste, caso sejam expostas, relatando brevemente a experiência de uso que acabou de vivenciar durante a avaliação.
